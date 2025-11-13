@@ -70,9 +70,9 @@ coffee,Beverages
 chocolate,Snacks
 tea,Beverages
 face wash,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 notebook,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 popcorn,Snacks
 chocolate,Snacks
 apple,Fruits & Vegetables
@@ -95,7 +95,7 @@ apple,Fruits & Vegetables
 chocolate,Snacks
 popcorn,Snacks
 orange,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 pain reliever,Personal Care & Health
 shirt,Clothing & Lifestyle
 coffee,Beverages
@@ -169,7 +169,7 @@ soda,Beverages
 electric kettle,Electronics
 pen,Stationery & Books
 popcorn,Snacks
-diapers,Personal Care & Health
+diapers,Baby Care
 detergent,Household
 shoes,Clothing & Lifestyle
 cookies,Bakery
@@ -181,7 +181,7 @@ cheese,Dairy & Eggs
 electric kettle,Electronics
 tea,Beverages
 salt,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 dress,Clothing & Lifestyle
 pain reliever,Personal Care & Health
 detergent,Household
@@ -244,7 +244,7 @@ onion,Fruits & Vegetables
 salt,Grains & Staples
 energy drink,Beverages
 carrot,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 butter,Dairy & Eggs
 prawns,Meat & Seafood
 cheese,Dairy & Eggs
@@ -302,7 +302,7 @@ croissant,Bakery
 yogurt,Dairy & Eggs
 croissant,Bakery
 earphones,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 vitamins,Personal Care & Health
 coffee,Beverages
 bread,Bakery
@@ -317,14 +317,14 @@ energy drink,Beverages
 rice,Grains & Staples
 chicken breast,Meat & Seafood
 biscuits,Snacks
-baby food,Personal Care & Health
+baby food,Baby Care
 face wash,Personal Care & Health
 beef,Meat & Seafood
 spinach,Fruits & Vegetables
 tomato,Fruits & Vegetables
 tissue,Household
 lentils,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 spices,Grains & Staples
 potato,Fruits & Vegetables
 salt,Grains & Staples
@@ -361,9 +361,9 @@ jeans,Clothing & Lifestyle
 prawns,Meat & Seafood
 pain reliever,Personal Care & Health
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 soap,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 bread,Bakery
 soap,Personal Care & Health
 mixer grinder,Electronics
@@ -381,7 +381,7 @@ educational book,Stationery & Books
 juice,Beverages
 soda,Beverages
 vitamins,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 dishwashing liquid,Household
 notebook,Stationery & Books
 yogurt,Dairy & Eggs
@@ -397,7 +397,7 @@ educational book,Stationery & Books
 mixer grinder,Electronics
 phone cover,Electronics
 tomato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 biscuits,Snacks
 rice,Grains & Staples
 energy drink,Beverages
@@ -505,7 +505,7 @@ tomato,Fruits & Vegetables
 cheese,Dairy & Eggs
 fish,Meat & Seafood
 eggs,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 pastry,Bakery
 pastry,Bakery
 pen,Stationery & Books
@@ -513,17 +513,17 @@ charger,Electronics
 juice,Beverages
 vitamins,Personal Care & Health
 sugar,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 chocolate,Snacks
 energy drink,Beverages
 saree,Clothing & Lifestyle
 electric kettle,Electronics
 apple,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 potato,Fruits & Vegetables
 phone cover,Electronics
 cookies,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 marker,Stationery & Books
 popcorn,Snacks
 saree,Clothing & Lifestyle
@@ -544,7 +544,7 @@ toilet paper,Household
 coffee,Beverages
 dress,Clothing & Lifestyle
 sugar,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 dress,Clothing & Lifestyle
 educational book,Stationery & Books
 juice,Beverages
@@ -576,7 +576,7 @@ prawns,Meat & Seafood
 tissue,Household
 banana,Fruits & Vegetables
 cooking oil,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 biscuits,Snacks
 sugar,Grains & Staples
 coffee,Beverages
@@ -618,7 +618,7 @@ spinach,Fruits & Vegetables
 cookies,Bakery
 pen,Stationery & Books
 pen,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 butter,Dairy & Eggs
 shampoo,Personal Care & Health
 jeans,Clothing & Lifestyle
@@ -660,7 +660,7 @@ milk,Dairy & Eggs
 tissue,Household
 toilet paper,Household
 bread,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 face wash,Personal Care & Health
 face wash,Personal Care & Health
 pasta,Grains & Staples
@@ -693,13 +693,13 @@ apple,Fruits & Vegetables
 coffee,Beverages
 orange,Fruits & Vegetables
 butter,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 sugar,Grains & Staples
 marker,Stationery & Books
 jeans,Clothing & Lifestyle
 tissue,Household
 tea,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 shampoo,Personal Care & Health
 yogurt,Dairy & Eggs
 milk,Dairy & Eggs
@@ -746,7 +746,7 @@ jeans,Clothing & Lifestyle
 milk,Dairy & Eggs
 dress,Clothing & Lifestyle
 tissue,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 jeans,Clothing & Lifestyle
 bread,Bakery
 energy drink,Beverages
@@ -785,7 +785,7 @@ biscuits,Snacks
 wheat flour,Grains & Staples
 soap,Personal Care & Health
 cheese,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 toothpaste,Personal Care & Health
 dishwashing liquid,Household
 pen,Stationery & Books
@@ -805,12 +805,12 @@ spices,Grains & Staples
 toilet paper,Household
 pastry,Bakery
 charger,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 pasta,Grains & Staples
 dress,Clothing & Lifestyle
 soap,Personal Care & Health
 potato,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 pain reliever,Personal Care & Health
 juice,Beverages
 lentils,Grains & Staples
@@ -837,7 +837,7 @@ pen,Stationery & Books
 dress,Clothing & Lifestyle
 chicken breast,Meat & Seafood
 saree,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 shirt,Clothing & Lifestyle
 orange,Fruits & Vegetables
 spinach,Fruits & Vegetables
@@ -859,7 +859,7 @@ educational book,Stationery & Books
 earphones,Electronics
 lentils,Grains & Staples
 detergent,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 beef,Meat & Seafood
 sugar,Grains & Staples
 toothpaste,Personal Care & Health
@@ -876,7 +876,7 @@ wheat flour,Grains & Staples
 bread,Bakery
 butter,Dairy & Eggs
 milk,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 dress,Clothing & Lifestyle
 biscuits,Snacks
 apple,Fruits & Vegetables
@@ -939,7 +939,7 @@ lentils,Grains & Staples
 detergent,Household
 shoes,Clothing & Lifestyle
 charger,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 tea,Beverages
 pastry,Bakery
 coffee,Beverages
@@ -955,12 +955,12 @@ vitamins,Personal Care & Health
 popcorn,Snacks
 cheese,Dairy & Eggs
 apple,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 lentils,Grains & Staples
 jeans,Clothing & Lifestyle
 apple,Fruits & Vegetables
 carrot,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 toilet paper,Household
 electric kettle,Electronics
 phone cover,Electronics
@@ -970,7 +970,7 @@ tissue,Household
 butter,Dairy & Eggs
 soap,Personal Care & Health
 eggs,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 potato,Fruits & Vegetables
 orange,Fruits & Vegetables
 fish,Meat & Seafood
@@ -1024,7 +1024,7 @@ cheese,Dairy & Eggs
 chips,Snacks
 belt,Clothing & Lifestyle
 pain reliever,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 soda,Beverages
 tea,Beverages
 juice,Beverages
@@ -1042,7 +1042,7 @@ spinach,Fruits & Vegetables
 lentils,Grains & Staples
 shoes,Clothing & Lifestyle
 pain reliever,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 fiction book,Stationery & Books
 saree,Clothing & Lifestyle
 bread,Bakery
@@ -1087,7 +1087,7 @@ electric kettle,Electronics
 carrot,Fruits & Vegetables
 charger,Electronics
 tissue,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 educational book,Stationery & Books
 shoes,Clothing & Lifestyle
 tea,Beverages
@@ -1132,7 +1132,7 @@ vitamins,Personal Care & Health
 pastry,Bakery
 tea,Beverages
 onion,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 biscuits,Snacks
 belt,Clothing & Lifestyle
 tissue,Household
@@ -1301,7 +1301,7 @@ eggs,Dairy & Eggs
 tea,Beverages
 soda,Beverages
 toothpaste,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 popcorn,Snacks
 pasta,Grains & Staples
 orange,Fruits & Vegetables
@@ -1310,7 +1310,7 @@ charger,Electronics
 marker,Stationery & Books
 chicken breast,Meat & Seafood
 lentils,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 vitamins,Personal Care & Health
 potato,Fruits & Vegetables
 wheat flour,Grains & Staples
@@ -1333,7 +1333,7 @@ carrot,Fruits & Vegetables
 pain reliever,Personal Care & Health
 pain reliever,Personal Care & Health
 potato,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 vitamins,Personal Care & Health
 lentils,Grains & Staples
 spices,Grains & Staples
@@ -1506,12 +1506,12 @@ electric kettle,Electronics
 detergent,Household
 biscuits,Snacks
 onion,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 cookies,Bakery
 chips,Snacks
 saree,Clothing & Lifestyle
-diapers,Personal Care & Health
-baby food,Personal Care & Health
+diapers,Baby Care
+baby food,Baby Care
 juice,Beverages
 pasta,Grains & Staples
 mixer grinder,Electronics
@@ -1569,11 +1569,11 @@ tomato,Fruits & Vegetables
 shampoo,Personal Care & Health
 toilet paper,Household
 butter,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 orange,Fruits & Vegetables
 coffee,Beverages
 pasta,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 beef,Meat & Seafood
 chicken breast,Meat & Seafood
 mixer grinder,Electronics
@@ -1647,7 +1647,7 @@ banana,Fruits & Vegetables
 jeans,Clothing & Lifestyle
 chocolate,Snacks
 bread,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 cake,Bakery
 electric kettle,Electronics
 salt,Grains & Staples
@@ -1684,7 +1684,7 @@ carrot,Fruits & Vegetables
 tomato,Fruits & Vegetables
 fish,Meat & Seafood
 chicken breast,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 pain reliever,Personal Care & Health
 spinach,Fruits & Vegetables
 salt,Grains & Staples
@@ -1710,7 +1710,7 @@ cheese,Dairy & Eggs
 milk,Dairy & Eggs
 pasta,Grains & Staples
 floor cleaner,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 mixer grinder,Electronics
 notebook,Stationery & Books
 bread,Bakery
@@ -1742,7 +1742,7 @@ prawns,Meat & Seafood
 tissue,Household
 educational book,Stationery & Books
 spices,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 phone cover,Electronics
 apple,Fruits & Vegetables
 pain reliever,Personal Care & Health
@@ -1770,7 +1770,7 @@ pastry,Bakery
 charger,Electronics
 toothpaste,Personal Care & Health
 mixer grinder,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 pen,Stationery & Books
 pasta,Grains & Staples
 earphones,Electronics
@@ -1794,7 +1794,7 @@ charger,Electronics
 butter,Dairy & Eggs
 shampoo,Personal Care & Health
 cake,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 phone cover,Electronics
 notebook,Stationery & Books
 fish,Meat & Seafood
@@ -1803,7 +1803,7 @@ spinach,Fruits & Vegetables
 beef,Meat & Seafood
 shirt,Clothing & Lifestyle
 detergent,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 jeans,Clothing & Lifestyle
 tomato,Fruits & Vegetables
 lentils,Grains & Staples
@@ -1859,7 +1859,7 @@ cheese,Dairy & Eggs
 eggs,Dairy & Eggs
 vitamins,Personal Care & Health
 earphones,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 rice,Grains & Staples
 energy drink,Beverages
 banana,Fruits & Vegetables
@@ -1885,7 +1885,7 @@ notebook,Stationery & Books
 pasta,Grains & Staples
 marker,Stationery & Books
 spinach,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 tomato,Fruits & Vegetables
 spices,Grains & Staples
 earphones,Electronics
@@ -1922,7 +1922,7 @@ potato,Fruits & Vegetables
 spinach,Fruits & Vegetables
 cake,Bakery
 butter,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 eggs,Dairy & Eggs
 pen,Stationery & Books
 dishwashing liquid,Household
@@ -1955,10 +1955,10 @@ juice,Beverages
 yogurt,Dairy & Eggs
 vitamins,Personal Care & Health
 marker,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 notebook,Stationery & Books
 prawns,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 chocolate,Snacks
 cheese,Dairy & Eggs
 spices,Grains & Staples
@@ -2138,7 +2138,7 @@ milk,Dairy & Eggs
 popcorn,Snacks
 energy drink,Beverages
 croissant,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 shoes,Clothing & Lifestyle
 fiction book,Stationery & Books
 cheese,Dairy & Eggs
@@ -2173,7 +2173,7 @@ carrot,Fruits & Vegetables
 energy drink,Beverages
 jeans,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 energy drink,Beverages
 pen,Stationery & Books
 saree,Clothing & Lifestyle
@@ -2217,7 +2217,7 @@ chocolate,Snacks
 educational book,Stationery & Books
 spinach,Fruits & Vegetables
 bread,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 marker,Stationery & Books
 soda,Beverages
 carrot,Fruits & Vegetables
@@ -2269,7 +2269,7 @@ cooking oil,Grains & Staples
 bread,Bakery
 yogurt,Dairy & Eggs
 cookies,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 potato,Fruits & Vegetables
 saree,Clothing & Lifestyle
 saree,Clothing & Lifestyle
@@ -2342,13 +2342,13 @@ spices,Grains & Staples
 belt,Clothing & Lifestyle
 carrot,Fruits & Vegetables
 vitamins,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 jeans,Clothing & Lifestyle
 pasta,Grains & Staples
 shoes,Clothing & Lifestyle
 fiction book,Stationery & Books
 jeans,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 prawns,Meat & Seafood
 floor cleaner,Household
 tomato,Fruits & Vegetables
@@ -2477,7 +2477,7 @@ pain reliever,Personal Care & Health
 apple,Fruits & Vegetables
 fiction book,Stationery & Books
 mixer grinder,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 chocolate,Snacks
 notebook,Stationery & Books
 toilet paper,Household
@@ -2509,7 +2509,7 @@ fish,Meat & Seafood
 fish,Meat & Seafood
 educational book,Stationery & Books
 carrot,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 toothpaste,Personal Care & Health
 tissue,Household
 charger,Electronics
@@ -2566,7 +2566,7 @@ shoes,Clothing & Lifestyle
 banana,Fruits & Vegetables
 earphones,Electronics
 soap,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 tomato,Fruits & Vegetables
 vitamins,Personal Care & Health
 shoes,Clothing & Lifestyle
@@ -2591,7 +2591,7 @@ milk,Dairy & Eggs
 biscuits,Snacks
 bread,Bakery
 orange,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 chips,Snacks
 prawns,Meat & Seafood
 earphones,Electronics
@@ -2660,7 +2660,7 @@ toilet paper,Household
 pain reliever,Personal Care & Health
 wheat flour,Grains & Staples
 dishwashing liquid,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 dress,Clothing & Lifestyle
 shampoo,Personal Care & Health
 pastry,Bakery
@@ -2700,13 +2700,13 @@ wheat flour,Grains & Staples
 prawns,Meat & Seafood
 prawns,Meat & Seafood
 banana,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 face wash,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 cooking oil,Grains & Staples
 fiction book,Stationery & Books
 belt,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 popcorn,Snacks
 face wash,Personal Care & Health
 marker,Stationery & Books
@@ -2741,7 +2741,7 @@ phone cover,Electronics
 rice,Grains & Staples
 pen,Stationery & Books
 bread,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 floor cleaner,Household
 detergent,Household
 wheat flour,Grains & Staples
@@ -2838,7 +2838,7 @@ carrot,Fruits & Vegetables
 dishwashing liquid,Household
 cooking oil,Grains & Staples
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 detergent,Household
 prawns,Meat & Seafood
 pastry,Bakery
@@ -2855,7 +2855,7 @@ face wash,Personal Care & Health
 prawns,Meat & Seafood
 croissant,Bakery
 prawns,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 jeans,Clothing & Lifestyle
 floor cleaner,Household
 jeans,Clothing & Lifestyle
@@ -2905,7 +2905,7 @@ belt,Clothing & Lifestyle
 chicken breast,Meat & Seafood
 eggs,Dairy & Eggs
 chicken breast,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 orange,Fruits & Vegetables
 milk,Dairy & Eggs
 soda,Beverages
@@ -2932,7 +2932,7 @@ wheat flour,Grains & Staples
 pasta,Grains & Staples
 electric kettle,Electronics
 wheat flour,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 electric kettle,Electronics
 face wash,Personal Care & Health
 mixer grinder,Electronics
@@ -2994,13 +2994,13 @@ pastry,Bakery
 educational book,Stationery & Books
 chips,Snacks
 marker,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 pasta,Grains & Staples
 soda,Beverages
 juice,Beverages
 soda,Beverages
 fiction book,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 toothpaste,Personal Care & Health
 prawns,Meat & Seafood
 dress,Clothing & Lifestyle
@@ -3033,7 +3033,7 @@ saree,Clothing & Lifestyle
 cheese,Dairy & Eggs
 popcorn,Snacks
 pastry,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 belt,Clothing & Lifestyle
 shampoo,Personal Care & Health
 notebook,Stationery & Books
@@ -3045,7 +3045,7 @@ cake,Bakery
 notebook,Stationery & Books
 mixer grinder,Electronics
 biscuits,Snacks
-baby food,Personal Care & Health
+baby food,Baby Care
 electric kettle,Electronics
 earphones,Electronics
 tea,Beverages
@@ -3064,7 +3064,7 @@ apple,Fruits & Vegetables
 energy drink,Beverages
 potato,Fruits & Vegetables
 pastry,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 yogurt,Dairy & Eggs
 chocolate,Snacks
 sugar,Grains & Staples
@@ -3076,7 +3076,7 @@ tomato,Fruits & Vegetables
 shirt,Clothing & Lifestyle
 dress,Clothing & Lifestyle
 soap,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 belt,Clothing & Lifestyle
 dishwashing liquid,Household
 tissue,Household
@@ -3088,7 +3088,7 @@ prawns,Meat & Seafood
 vitamins,Personal Care & Health
 shoes,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 cooking oil,Grains & Staples
 prawns,Meat & Seafood
 dishwashing liquid,Household
@@ -3135,9 +3135,9 @@ notebook,Stationery & Books
 charger,Electronics
 coffee,Beverages
 pastry,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 fish,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 charger,Electronics
 tissue,Household
 chips,Snacks
@@ -3161,7 +3161,7 @@ salt,Grains & Staples
 popcorn,Snacks
 jeans,Clothing & Lifestyle
 tea,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 pen,Stationery & Books
 onion,Fruits & Vegetables
 carrot,Fruits & Vegetables
@@ -3175,7 +3175,7 @@ pastry,Bakery
 face wash,Personal Care & Health
 educational book,Stationery & Books
 wheat flour,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 toilet paper,Household
 eggs,Dairy & Eggs
 fish,Meat & Seafood
@@ -3214,14 +3214,14 @@ bread,Bakery
 bread,Bakery
 tea,Beverages
 prawns,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 pain reliever,Personal Care & Health
 soap,Personal Care & Health
 charger,Electronics
 earphones,Electronics
 spices,Grains & Staples
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 chocolate,Snacks
 tomato,Fruits & Vegetables
 soda,Beverages
@@ -3242,7 +3242,7 @@ notebook,Stationery & Books
 dress,Clothing & Lifestyle
 popcorn,Snacks
 electric kettle,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 prawns,Meat & Seafood
 tomato,Fruits & Vegetables
 butter,Dairy & Eggs
@@ -3358,7 +3358,7 @@ pasta,Grains & Staples
 chocolate,Snacks
 dishwashing liquid,Household
 spinach,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 spices,Grains & Staples
 onion,Fruits & Vegetables
 shirt,Clothing & Lifestyle
@@ -3383,7 +3383,7 @@ marker,Stationery & Books
 jeans,Clothing & Lifestyle
 beef,Meat & Seafood
 apple,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 fish,Meat & Seafood
 salt,Grains & Staples
 wheat flour,Grains & Staples
@@ -3431,7 +3431,7 @@ face wash,Personal Care & Health
 tomato,Fruits & Vegetables
 lentils,Grains & Staples
 pasta,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 dress,Clothing & Lifestyle
 mixer grinder,Electronics
 phone cover,Electronics
@@ -3483,7 +3483,7 @@ spinach,Fruits & Vegetables
 tea,Beverages
 yogurt,Dairy & Eggs
 carrot,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 rice,Grains & Staples
 toilet paper,Household
 tissue,Household
@@ -3538,7 +3538,7 @@ soda,Beverages
 banana,Fruits & Vegetables
 croissant,Bakery
 charger,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 belt,Clothing & Lifestyle
 fish,Meat & Seafood
 orange,Fruits & Vegetables
@@ -3578,7 +3578,7 @@ detergent,Household
 dress,Clothing & Lifestyle
 lentils,Grains & Staples
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 fish,Meat & Seafood
 tea,Beverages
 cake,Bakery
@@ -3590,8 +3590,8 @@ rice,Grains & Staples
 banana,Fruits & Vegetables
 eggs,Dairy & Eggs
 beef,Meat & Seafood
-diapers,Personal Care & Health
-baby food,Personal Care & Health
+diapers,Baby Care
+baby food,Baby Care
 mixer grinder,Electronics
 chicken breast,Meat & Seafood
 tea,Beverages
@@ -3605,7 +3605,7 @@ earphones,Electronics
 dress,Clothing & Lifestyle
 shoes,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 yogurt,Dairy & Eggs
 energy drink,Beverages
 potato,Fruits & Vegetables
@@ -3640,13 +3640,13 @@ spices,Grains & Staples
 cake,Bakery
 earphones,Electronics
 prawns,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 phone cover,Electronics
 belt,Clothing & Lifestyle
 jeans,Clothing & Lifestyle
 tissue,Household
 spices,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 lentils,Grains & Staples
 tomato,Fruits & Vegetables
 pain reliever,Personal Care & Health
@@ -3773,7 +3773,7 @@ educational book,Stationery & Books
 cooking oil,Grains & Staples
 croissant,Bakery
 beef,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 notebook,Stationery & Books
 wheat flour,Grains & Staples
 cheese,Dairy & Eggs
@@ -3808,7 +3808,7 @@ lentils,Grains & Staples
 educational book,Stationery & Books
 mixer grinder,Electronics
 cake,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 apple,Fruits & Vegetables
 biscuits,Snacks
 fish,Meat & Seafood
@@ -3818,7 +3818,7 @@ beef,Meat & Seafood
 fiction book,Stationery & Books
 notebook,Stationery & Books
 mixer grinder,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 onion,Fruits & Vegetables
 belt,Clothing & Lifestyle
 dishwashing liquid,Household
@@ -3861,7 +3861,7 @@ pasta,Grains & Staples
 phone cover,Electronics
 sugar,Grains & Staples
 wheat flour,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 chicken breast,Meat & Seafood
 yogurt,Dairy & Eggs
 pen,Stationery & Books
@@ -3877,7 +3877,7 @@ pastry,Bakery
 yogurt,Dairy & Eggs
 cake,Bakery
 face wash,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 wheat flour,Grains & Staples
 jeans,Clothing & Lifestyle
 earphones,Electronics
@@ -3990,7 +3990,7 @@ jeans,Clothing & Lifestyle
 cheese,Dairy & Eggs
 salt,Grains & Staples
 biscuits,Snacks
-diapers,Personal Care & Health
+diapers,Baby Care
 sugar,Grains & Staples
 orange,Fruits & Vegetables
 banana,Fruits & Vegetables
@@ -4002,7 +4002,7 @@ cookies,Bakery
 pastry,Bakery
 chocolate,Snacks
 toilet paper,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 soda,Beverages
 belt,Clothing & Lifestyle
 chicken breast,Meat & Seafood
@@ -4043,7 +4043,7 @@ onion,Fruits & Vegetables
 sugar,Grains & Staples
 cookies,Bakery
 fiction book,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 eggs,Dairy & Eggs
 shirt,Clothing & Lifestyle
 apple,Fruits & Vegetables
@@ -4092,22 +4092,22 @@ lentils,Grains & Staples
 notebook,Stationery & Books
 pen,Stationery & Books
 earphones,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 chocolate,Snacks
 saree,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 cooking oil,Grains & Staples
 toilet paper,Household
 toilet paper,Household
 notebook,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 potato,Fruits & Vegetables
 milk,Dairy & Eggs
 biscuits,Snacks
 shampoo,Personal Care & Health
 belt,Clothing & Lifestyle
 jeans,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 tomato,Fruits & Vegetables
 tomato,Fruits & Vegetables
 spinach,Fruits & Vegetables
@@ -4141,10 +4141,10 @@ cooking oil,Grains & Staples
 sugar,Grains & Staples
 phone cover,Electronics
 chips,Snacks
-baby food,Personal Care & Health
+baby food,Baby Care
 saree,Clothing & Lifestyle
-diapers,Personal Care & Health
-baby food,Personal Care & Health
+diapers,Baby Care
+baby food,Baby Care
 fish,Meat & Seafood
 tea,Beverages
 notebook,Stationery & Books
@@ -4152,7 +4152,7 @@ cake,Bakery
 earphones,Electronics
 face wash,Personal Care & Health
 prawns,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 earphones,Electronics
 jeans,Clothing & Lifestyle
 toothpaste,Personal Care & Health
@@ -4194,7 +4194,7 @@ mixer grinder,Electronics
 lentils,Grains & Staples
 shampoo,Personal Care & Health
 salt,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 detergent,Household
 earphones,Electronics
 banana,Fruits & Vegetables
@@ -4202,7 +4202,7 @@ apple,Fruits & Vegetables
 pain reliever,Personal Care & Health
 butter,Dairy & Eggs
 onion,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 orange,Fruits & Vegetables
 chicken breast,Meat & Seafood
 electric kettle,Electronics
@@ -4274,7 +4274,7 @@ pasta,Grains & Staples
 mixer grinder,Electronics
 dress,Clothing & Lifestyle
 prawns,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 pen,Stationery & Books
 fiction book,Stationery & Books
 detergent,Household
@@ -4295,7 +4295,7 @@ toilet paper,Household
 floor cleaner,Household
 dress,Clothing & Lifestyle
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 milk,Dairy & Eggs
 shoes,Clothing & Lifestyle
 pastry,Bakery
@@ -4319,7 +4319,7 @@ soap,Personal Care & Health
 chocolate,Snacks
 salt,Grains & Staples
 toilet paper,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 toothpaste,Personal Care & Health
 tomato,Fruits & Vegetables
 saree,Clothing & Lifestyle
@@ -4335,7 +4335,7 @@ shoes,Clothing & Lifestyle
 chips,Snacks
 beef,Meat & Seafood
 earphones,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 cookies,Bakery
 pen,Stationery & Books
 bread,Bakery
@@ -4354,7 +4354,7 @@ coffee,Beverages
 shirt,Clothing & Lifestyle
 dishwashing liquid,Household
 pastry,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 chicken breast,Meat & Seafood
 bread,Bakery
 charger,Electronics
@@ -4368,7 +4368,7 @@ yogurt,Dairy & Eggs
 charger,Electronics
 charger,Electronics
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 sugar,Grains & Staples
 orange,Fruits & Vegetables
 vitamins,Personal Care & Health
@@ -4411,7 +4411,7 @@ belt,Clothing & Lifestyle
 cheese,Dairy & Eggs
 electric kettle,Electronics
 rice,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 dress,Clothing & Lifestyle
 soda,Beverages
 dishwashing liquid,Household
@@ -4435,7 +4435,7 @@ face wash,Personal Care & Health
 marker,Stationery & Books
 cookies,Bakery
 salt,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 notebook,Stationery & Books
 saree,Clothing & Lifestyle
 shampoo,Personal Care & Health
@@ -4474,7 +4474,7 @@ sugar,Grains & Staples
 tissue,Household
 rice,Grains & Staples
 tomato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 sugar,Grains & Staples
 orange,Fruits & Vegetables
 electric kettle,Electronics
@@ -4502,7 +4502,7 @@ chips,Snacks
 spices,Grains & Staples
 fiction book,Stationery & Books
 energy drink,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 cookies,Bakery
 tomato,Fruits & Vegetables
 pasta,Grains & Staples
@@ -4530,7 +4530,7 @@ spices,Grains & Staples
 vitamins,Personal Care & Health
 face wash,Personal Care & Health
 cheese,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 mixer grinder,Electronics
 energy drink,Beverages
 electric kettle,Electronics
@@ -4569,7 +4569,7 @@ energy drink,Beverages
 fiction book,Stationery & Books
 tissue,Household
 croissant,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 popcorn,Snacks
 spices,Grains & Staples
 toothpaste,Personal Care & Health
@@ -4579,7 +4579,7 @@ chicken breast,Meat & Seafood
 tea,Beverages
 banana,Fruits & Vegetables
 educational book,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 dishwashing liquid,Household
 bread,Bakery
 juice,Beverages
@@ -4617,7 +4617,7 @@ cheese,Dairy & Eggs
 tissue,Household
 energy drink,Beverages
 beef,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 educational book,Stationery & Books
 detergent,Household
 tissue,Household
@@ -4639,7 +4639,7 @@ yogurt,Dairy & Eggs
 juice,Beverages
 cheese,Dairy & Eggs
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 energy drink,Beverages
 banana,Fruits & Vegetables
 toothpaste,Personal Care & Health
@@ -4683,7 +4683,7 @@ earphones,Electronics
 pastry,Bakery
 beef,Meat & Seafood
 toothpaste,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 floor cleaner,Household
 charger,Electronics
 shoes,Clothing & Lifestyle
@@ -4707,7 +4707,7 @@ popcorn,Snacks
 rice,Grains & Staples
 dishwashing liquid,Household
 cake,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 mixer grinder,Electronics
 popcorn,Snacks
 coffee,Beverages
@@ -4799,7 +4799,7 @@ marker,Stationery & Books
 energy drink,Beverages
 belt,Clothing & Lifestyle
 chicken breast,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 bread,Bakery
 onion,Fruits & Vegetables
 energy drink,Beverages
@@ -4814,7 +4814,7 @@ cheese,Dairy & Eggs
 coffee,Beverages
 jeans,Clothing & Lifestyle
 shampoo,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 soda,Beverages
 potato,Fruits & Vegetables
 lentils,Grains & Staples
@@ -4852,7 +4852,7 @@ soap,Personal Care & Health
 banana,Fruits & Vegetables
 marker,Stationery & Books
 banana,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 cheese,Dairy & Eggs
 banana,Fruits & Vegetables
 soda,Beverages
@@ -4912,10 +4912,10 @@ charger,Electronics
 toilet paper,Household
 chips,Snacks
 floor cleaner,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 pastry,Bakery
 dishwashing liquid,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 salt,Grains & Staples
 onion,Fruits & Vegetables
 yogurt,Dairy & Eggs
@@ -4966,10 +4966,10 @@ juice,Beverages
 soap,Personal Care & Health
 cooking oil,Grains & Staples
 banana,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 pastry,Bakery
-baby food,Personal Care & Health
-diapers,Personal Care & Health
+baby food,Baby Care
+diapers,Baby Care
 shirt,Clothing & Lifestyle
 tea,Beverages
 educational book,Stationery & Books
@@ -4997,7 +4997,7 @@ sugar,Grains & Staples
 popcorn,Snacks
 tomato,Fruits & Vegetables
 onion,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 butter,Dairy & Eggs
 educational book,Stationery & Books
 soda,Beverages
@@ -5029,7 +5029,7 @@ cake,Bakery
 soap,Personal Care & Health
 biscuits,Snacks
 electric kettle,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 tissue,Household
 chips,Snacks
 prawns,Meat & Seafood
@@ -5054,7 +5054,7 @@ earphones,Electronics
 spices,Grains & Staples
 lentils,Grains & Staples
 notebook,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 carrot,Fruits & Vegetables
 eggs,Dairy & Eggs
 chicken breast,Meat & Seafood
@@ -5083,7 +5083,7 @@ chips,Snacks
 dishwashing liquid,Household
 chips,Snacks
 cooking oil,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 fish,Meat & Seafood
 vitamins,Personal Care & Health
 pastry,Bakery
@@ -5093,7 +5093,7 @@ croissant,Bakery
 soda,Beverages
 potato,Fruits & Vegetables
 spices,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 lentils,Grains & Staples
 spinach,Fruits & Vegetables
 soda,Beverages
@@ -5101,7 +5101,7 @@ wheat flour,Grains & Staples
 cooking oil,Grains & Staples
 orange,Fruits & Vegetables
 belt,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 potato,Fruits & Vegetables
 face wash,Personal Care & Health
 energy drink,Beverages
@@ -5112,7 +5112,7 @@ spices,Grains & Staples
 cookies,Bakery
 educational book,Stationery & Books
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 milk,Dairy & Eggs
 beef,Meat & Seafood
 electric kettle,Electronics
@@ -5176,7 +5176,7 @@ chocolate,Snacks
 toothpaste,Personal Care & Health
 carrot,Fruits & Vegetables
 educational book,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 sugar,Grains & Staples
 spices,Grains & Staples
 toothpaste,Personal Care & Health
@@ -5243,7 +5243,7 @@ milk,Dairy & Eggs
 cookies,Bakery
 spices,Grains & Staples
 toothpaste,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 popcorn,Snacks
 wheat flour,Grains & Staples
 spinach,Fruits & Vegetables
@@ -5262,15 +5262,15 @@ prawns,Meat & Seafood
 carrot,Fruits & Vegetables
 jeans,Clothing & Lifestyle
 charger,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 cookies,Bakery
 cake,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 potato,Fruits & Vegetables
 bread,Bakery
 chicken breast,Meat & Seafood
 yogurt,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 jeans,Clothing & Lifestyle
 jeans,Clothing & Lifestyle
 beef,Meat & Seafood
@@ -5379,7 +5379,7 @@ earphones,Electronics
 tomato,Fruits & Vegetables
 beef,Meat & Seafood
 soda,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 detergent,Household
 juice,Beverages
 lentils,Grains & Staples
@@ -5411,7 +5411,7 @@ croissant,Bakery
 pasta,Grains & Staples
 mixer grinder,Electronics
 carrot,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 pasta,Grains & Staples
 coffee,Beverages
 coffee,Beverages
@@ -5429,13 +5429,13 @@ cake,Bakery
 saree,Clothing & Lifestyle
 pen,Stationery & Books
 soda,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 cake,Bakery
 apple,Fruits & Vegetables
 banana,Fruits & Vegetables
 popcorn,Snacks
-diapers,Personal Care & Health
-baby food,Personal Care & Health
+diapers,Baby Care
+baby food,Baby Care
 energy drink,Beverages
 face wash,Personal Care & Health
 tissue,Household
@@ -5459,12 +5459,12 @@ shampoo,Personal Care & Health
 coffee,Beverages
 rice,Grains & Staples
 detergent,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 fish,Meat & Seafood
 vitamins,Personal Care & Health
 fiction book,Stationery & Books
 juice,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 toothpaste,Personal Care & Health
 tea,Beverages
 vitamins,Personal Care & Health
@@ -5573,7 +5573,7 @@ carrot,Fruits & Vegetables
 yogurt,Dairy & Eggs
 spinach,Fruits & Vegetables
 shampoo,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 soap,Personal Care & Health
 dishwashing liquid,Household
 shirt,Clothing & Lifestyle
@@ -5587,13 +5587,13 @@ apple,Fruits & Vegetables
 toothpaste,Personal Care & Health
 salt,Grains & Staples
 juice,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 cake,Bakery
 pen,Stationery & Books
 biscuits,Snacks
 cookies,Bakery
 croissant,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 lentils,Grains & Staples
 banana,Fruits & Vegetables
 lentils,Grains & Staples
@@ -5613,7 +5613,7 @@ juice,Beverages
 pain reliever,Personal Care & Health
 spinach,Fruits & Vegetables
 sugar,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 milk,Dairy & Eggs
 onion,Fruits & Vegetables
 shampoo,Personal Care & Health
@@ -5639,7 +5639,7 @@ sugar,Grains & Staples
 dress,Clothing & Lifestyle
 toilet paper,Household
 chicken breast,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 biscuits,Snacks
 banana,Fruits & Vegetables
 cookies,Bakery
@@ -5740,14 +5740,14 @@ shirt,Clothing & Lifestyle
 jeans,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
 cheese,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 pastry,Bakery
 notebook,Stationery & Books
 charger,Electronics
 pasta,Grains & Staples
 toothpaste,Personal Care & Health
 detergent,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 coffee,Beverages
 tomato,Fruits & Vegetables
 toilet paper,Household
@@ -5776,7 +5776,7 @@ bread,Bakery
 pen,Stationery & Books
 pain reliever,Personal Care & Health
 lentils,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 chicken breast,Meat & Seafood
 shampoo,Personal Care & Health
 croissant,Bakery
@@ -5869,7 +5869,7 @@ marker,Stationery & Books
 toothpaste,Personal Care & Health
 educational book,Stationery & Books
 tea,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 charger,Electronics
 shirt,Clothing & Lifestyle
 wheat flour,Grains & Staples
@@ -5933,7 +5933,7 @@ jeans,Clothing & Lifestyle
 fish,Meat & Seafood
 apple,Fruits & Vegetables
 spinach,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 milk,Dairy & Eggs
 phone cover,Electronics
 pen,Stationery & Books
@@ -5999,14 +5999,14 @@ notebook,Stationery & Books
 detergent,Household
 spices,Grains & Staples
 dishwashing liquid,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 soap,Personal Care & Health
 juice,Beverages
 rice,Grains & Staples
 notebook,Stationery & Books
 juice,Beverages
 popcorn,Snacks
-diapers,Personal Care & Health
+diapers,Baby Care
 tea,Beverages
 cookies,Bakery
 chicken breast,Meat & Seafood
@@ -6017,17 +6017,17 @@ earphones,Electronics
 pastry,Bakery
 prawns,Meat & Seafood
 vitamins,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 chips,Snacks
 prawns,Meat & Seafood
 pasta,Grains & Staples
 shoes,Clothing & Lifestyle
 fiction book,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 tomato,Fruits & Vegetables
 chicken breast,Meat & Seafood
 butter,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 yogurt,Dairy & Eggs
 cooking oil,Grains & Staples
 vitamins,Personal Care & Health
@@ -6044,7 +6044,7 @@ coffee,Beverages
 face wash,Personal Care & Health
 yogurt,Dairy & Eggs
 croissant,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 pasta,Grains & Staples
 belt,Clothing & Lifestyle
 fish,Meat & Seafood
@@ -6087,7 +6087,7 @@ eggs,Dairy & Eggs
 rice,Grains & Staples
 toilet paper,Household
 spinach,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 dishwashing liquid,Household
 tissue,Household
 tea,Beverages
@@ -6125,7 +6125,7 @@ pen,Stationery & Books
 chocolate,Snacks
 toilet paper,Household
 pain reliever,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 educational book,Stationery & Books
 shoes,Clothing & Lifestyle
 lentils,Grains & Staples
@@ -6145,7 +6145,7 @@ jeans,Clothing & Lifestyle
 energy drink,Beverages
 sugar,Grains & Staples
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 detergent,Household
 beef,Meat & Seafood
 cheese,Dairy & Eggs
@@ -6153,7 +6153,7 @@ notebook,Stationery & Books
 notebook,Stationery & Books
 earphones,Electronics
 charger,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 wheat flour,Grains & Staples
 electric kettle,Electronics
 tissue,Household
@@ -6216,7 +6216,7 @@ potato,Fruits & Vegetables
 shirt,Clothing & Lifestyle
 orange,Fruits & Vegetables
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 marker,Stationery & Books
 pen,Stationery & Books
 biscuits,Snacks
@@ -6275,7 +6275,7 @@ dress,Clothing & Lifestyle
 shoes,Clothing & Lifestyle
 spices,Grains & Staples
 fish,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 chicken breast,Meat & Seafood
 toilet paper,Household
 chicken breast,Meat & Seafood
@@ -6283,13 +6283,13 @@ tissue,Household
 spices,Grains & Staples
 cooking oil,Grains & Staples
 notebook,Stationery & Books
-diapers,Personal Care & Health
-baby food,Personal Care & Health
+diapers,Baby Care
+baby food,Baby Care
 banana,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 bread,Bakery
 fiction book,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 shirt,Clothing & Lifestyle
 biscuits,Snacks
 banana,Fruits & Vegetables
@@ -6330,7 +6330,7 @@ pen,Stationery & Books
 cookies,Bakery
 cookies,Bakery
 educational book,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 beef,Meat & Seafood
 soda,Beverages
 yogurt,Dairy & Eggs
@@ -6379,7 +6379,7 @@ juice,Beverages
 shoes,Clothing & Lifestyle
 fiction book,Stationery & Books
 eggs,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 pasta,Grains & Staples
 eggs,Dairy & Eggs
 milk,Dairy & Eggs
@@ -6390,7 +6390,7 @@ milk,Dairy & Eggs
 detergent,Household
 soda,Beverages
 cooking oil,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 juice,Beverages
 onion,Fruits & Vegetables
 pastry,Bakery
@@ -6434,12 +6434,12 @@ face wash,Personal Care & Health
 cake,Bakery
 chocolate,Snacks
 toothpaste,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 vitamins,Personal Care & Health
 toothpaste,Personal Care & Health
 shoes,Clothing & Lifestyle
 potato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 energy drink,Beverages
 shirt,Clothing & Lifestyle
 onion,Fruits & Vegetables
@@ -6533,7 +6533,7 @@ pasta,Grains & Staples
 juice,Beverages
 popcorn,Snacks
 marker,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 croissant,Bakery
 detergent,Household
 carrot,Fruits & Vegetables
@@ -6561,7 +6561,7 @@ bread,Bakery
 energy drink,Beverages
 floor cleaner,Household
 jeans,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 shoes,Clothing & Lifestyle
 banana,Fruits & Vegetables
 dishwashing liquid,Household
@@ -6625,7 +6625,7 @@ potato,Fruits & Vegetables
 sugar,Grains & Staples
 eggs,Dairy & Eggs
 wheat flour,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 prawns,Meat & Seafood
 tomato,Fruits & Vegetables
 tomato,Fruits & Vegetables
@@ -6705,7 +6705,7 @@ rice,Grains & Staples
 chocolate,Snacks
 chicken breast,Meat & Seafood
 orange,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 dishwashing liquid,Household
 energy drink,Beverages
 milk,Dairy & Eggs
@@ -6722,7 +6722,7 @@ popcorn,Snacks
 vitamins,Personal Care & Health
 coffee,Beverages
 soda,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 energy drink,Beverages
 pastry,Bakery
 bread,Bakery
@@ -6754,7 +6754,7 @@ fiction book,Stationery & Books
 detergent,Household
 potato,Fruits & Vegetables
 saree,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 mixer grinder,Electronics
 bread,Bakery
 pasta,Grains & Staples
@@ -6762,7 +6762,7 @@ energy drink,Beverages
 dress,Clothing & Lifestyle
 toilet paper,Household
 shoes,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 phone cover,Electronics
 salt,Grains & Staples
 tomato,Fruits & Vegetables
@@ -6771,7 +6771,7 @@ butter,Dairy & Eggs
 toilet paper,Household
 dishwashing liquid,Household
 cake,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 sugar,Grains & Staples
 eggs,Dairy & Eggs
 floor cleaner,Household
@@ -6795,12 +6795,12 @@ lentils,Grains & Staples
 toothpaste,Personal Care & Health
 orange,Fruits & Vegetables
 saree,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 phone cover,Electronics
 eggs,Dairy & Eggs
 chocolate,Snacks
 detergent,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 soda,Beverages
 floor cleaner,Household
 yogurt,Dairy & Eggs
@@ -6823,7 +6823,7 @@ detergent,Household
 phone cover,Electronics
 apple,Fruits & Vegetables
 electric kettle,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 fiction book,Stationery & Books
 beef,Meat & Seafood
 carrot,Fruits & Vegetables
@@ -6846,7 +6846,7 @@ toothpaste,Personal Care & Health
 notebook,Stationery & Books
 electric kettle,Electronics
 energy drink,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 orange,Fruits & Vegetables
 cheese,Dairy & Eggs
 prawns,Meat & Seafood
@@ -6863,7 +6863,7 @@ coffee,Beverages
 soda,Beverages
 cooking oil,Grains & Staples
 fish,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 biscuits,Snacks
 cheese,Dairy & Eggs
 pain reliever,Personal Care & Health
@@ -6905,7 +6905,7 @@ onion,Fruits & Vegetables
 tissue,Household
 charger,Electronics
 floor cleaner,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 cheese,Dairy & Eggs
 spinach,Fruits & Vegetables
 coffee,Beverages
@@ -7006,13 +7006,13 @@ sugar,Grains & Staples
 tea,Beverages
 belt,Clothing & Lifestyle
 soda,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 rice,Grains & Staples
 educational book,Stationery & Books
 toothpaste,Personal Care & Health
 mixer grinder,Electronics
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 coffee,Beverages
 onion,Fruits & Vegetables
 charger,Electronics
@@ -7067,7 +7067,7 @@ prawns,Meat & Seafood
 potato,Fruits & Vegetables
 pain reliever,Personal Care & Health
 shoes,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 cheese,Dairy & Eggs
 shoes,Clothing & Lifestyle
 pastry,Bakery
@@ -7116,9 +7116,9 @@ tea,Beverages
 tea,Beverages
 apple,Fruits & Vegetables
 chips,Snacks
-diapers,Personal Care & Health
+diapers,Baby Care
 juice,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 shoes,Clothing & Lifestyle
 chicken breast,Meat & Seafood
 face wash,Personal Care & Health
@@ -7144,7 +7144,7 @@ vitamins,Personal Care & Health
 detergent,Household
 carrot,Fruits & Vegetables
 prawns,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 soda,Beverages
 sugar,Grains & Staples
 onion,Fruits & Vegetables
@@ -7167,7 +7167,7 @@ beef,Meat & Seafood
 pain reliever,Personal Care & Health
 pastry,Bakery
 pasta,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 bread,Bakery
 juice,Beverages
 pasta,Grains & Staples
@@ -7227,7 +7227,7 @@ pastry,Bakery
 mixer grinder,Electronics
 jeans,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 spinach,Fruits & Vegetables
 yogurt,Dairy & Eggs
 butter,Dairy & Eggs
@@ -7246,7 +7246,7 @@ milk,Dairy & Eggs
 salt,Grains & Staples
 soap,Personal Care & Health
 tomato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 toothpaste,Personal Care & Health
 pastry,Bakery
 eggs,Dairy & Eggs
@@ -7263,7 +7263,7 @@ shampoo,Personal Care & Health
 beef,Meat & Seafood
 salt,Grains & Staples
 yogurt,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 soap,Personal Care & Health
 shoes,Clothing & Lifestyle
 floor cleaner,Household
@@ -7297,7 +7297,7 @@ energy drink,Beverages
 butter,Dairy & Eggs
 cooking oil,Grains & Staples
 earphones,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 wheat flour,Grains & Staples
 sugar,Grains & Staples
 educational book,Stationery & Books
@@ -7331,7 +7331,7 @@ popcorn,Snacks
 belt,Clothing & Lifestyle
 pen,Stationery & Books
 orange,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 fish,Meat & Seafood
 pain reliever,Personal Care & Health
 milk,Dairy & Eggs
@@ -7359,12 +7359,12 @@ spices,Grains & Staples
 salt,Grains & Staples
 jeans,Clothing & Lifestyle
 shoes,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 pen,Stationery & Books
 earphones,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 face wash,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 belt,Clothing & Lifestyle
 butter,Dairy & Eggs
 beef,Meat & Seafood
@@ -7379,15 +7379,15 @@ toilet paper,Household
 coffee,Beverages
 spinach,Fruits & Vegetables
 cookies,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 shoes,Clothing & Lifestyle
 shoes,Clothing & Lifestyle
 butter,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 soap,Personal Care & Health
 banana,Fruits & Vegetables
 fish,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 butter,Dairy & Eggs
 fish,Meat & Seafood
 fish,Meat & Seafood
@@ -7424,13 +7424,13 @@ tomato,Fruits & Vegetables
 sugar,Grains & Staples
 wheat flour,Grains & Staples
 banana,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 charger,Electronics
 carrot,Fruits & Vegetables
 sugar,Grains & Staples
 marker,Stationery & Books
 wheat flour,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 orange,Fruits & Vegetables
 charger,Electronics
 wheat flour,Grains & Staples
@@ -7442,7 +7442,7 @@ dress,Clothing & Lifestyle
 juice,Beverages
 shirt,Clothing & Lifestyle
 juice,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 jeans,Clothing & Lifestyle
 cake,Bakery
 wheat flour,Grains & Staples
@@ -7517,7 +7517,7 @@ shoes,Clothing & Lifestyle
 jeans,Clothing & Lifestyle
 toilet paper,Household
 popcorn,Snacks
-diapers,Personal Care & Health
+diapers,Baby Care
 mixer grinder,Electronics
 dishwashing liquid,Household
 notebook,Stationery & Books
@@ -7534,7 +7534,7 @@ spinach,Fruits & Vegetables
 spinach,Fruits & Vegetables
 saree,Clothing & Lifestyle
 pain reliever,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 earphones,Electronics
 salt,Grains & Staples
 mixer grinder,Electronics
@@ -7549,7 +7549,7 @@ prawns,Meat & Seafood
 jeans,Clothing & Lifestyle
 sugar,Grains & Staples
 salt,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 jeans,Clothing & Lifestyle
 dishwashing liquid,Household
 pain reliever,Personal Care & Health
@@ -7563,7 +7563,7 @@ orange,Fruits & Vegetables
 soda,Beverages
 phone cover,Electronics
 beef,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 chips,Snacks
 milk,Dairy & Eggs
 fish,Meat & Seafood
@@ -7696,16 +7696,16 @@ croissant,Bakery
 cheese,Dairy & Eggs
 cake,Bakery
 tomato,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 bread,Bakery
 carrot,Fruits & Vegetables
 prawns,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 notebook,Stationery & Books
 cookies,Bakery
 dishwashing liquid,Household
 potato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 fish,Meat & Seafood
 lentils,Grains & Staples
 chocolate,Snacks
@@ -7729,15 +7729,15 @@ floor cleaner,Household
 soda,Beverages
 orange,Fruits & Vegetables
 pastry,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 energy drink,Beverages
 electric kettle,Electronics
 earphones,Electronics
 chips,Snacks
 notebook,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 banana,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 tea,Beverages
 pastry,Bakery
 detergent,Household
@@ -7764,12 +7764,12 @@ orange,Fruits & Vegetables
 butter,Dairy & Eggs
 cookies,Bakery
 shoes,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 tomato,Fruits & Vegetables
 chips,Snacks
 notebook,Stationery & Books
 pasta,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 prawns,Meat & Seafood
 banana,Fruits & Vegetables
 salt,Grains & Staples
@@ -7803,7 +7803,7 @@ milk,Dairy & Eggs
 face wash,Personal Care & Health
 apple,Fruits & Vegetables
 mixer grinder,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 tissue,Household
 detergent,Household
 bread,Bakery
@@ -7889,7 +7889,7 @@ vitamins,Personal Care & Health
 cookies,Bakery
 jeans,Clothing & Lifestyle
 cheese,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 butter,Dairy & Eggs
 saree,Clothing & Lifestyle
 prawns,Meat & Seafood
@@ -7905,7 +7905,7 @@ lentils,Grains & Staples
 cookies,Bakery
 soda,Beverages
 croissant,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 fish,Meat & Seafood
 soap,Personal Care & Health
 yogurt,Dairy & Eggs
@@ -8040,12 +8040,12 @@ chips,Snacks
 popcorn,Snacks
 lentils,Grains & Staples
 toilet paper,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 croissant,Bakery
 shoes,Clothing & Lifestyle
 milk,Dairy & Eggs
 detergent,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 tea,Beverages
 coffee,Beverages
 banana,Fruits & Vegetables
@@ -8053,8 +8053,8 @@ toilet paper,Household
 phone cover,Electronics
 cheese,Dairy & Eggs
 soap,Personal Care & Health
-baby food,Personal Care & Health
-diapers,Personal Care & Health
+baby food,Baby Care
+diapers,Baby Care
 cake,Bakery
 popcorn,Snacks
 tomato,Fruits & Vegetables
@@ -8135,7 +8135,7 @@ tissue,Household
 pain reliever,Personal Care & Health
 detergent,Household
 milk,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 phone cover,Electronics
 popcorn,Snacks
 phone cover,Electronics
@@ -8149,7 +8149,7 @@ potato,Fruits & Vegetables
 shampoo,Personal Care & Health
 cookies,Bakery
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 salt,Grains & Staples
 tissue,Household
 charger,Electronics
@@ -8221,7 +8221,7 @@ prawns,Meat & Seafood
 butter,Dairy & Eggs
 toilet paper,Household
 mixer grinder,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 fiction book,Stationery & Books
 fish,Meat & Seafood
 dress,Clothing & Lifestyle
@@ -8361,7 +8361,7 @@ cookies,Bakery
 yogurt,Dairy & Eggs
 lentils,Grains & Staples
 fish,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 carrot,Fruits & Vegetables
 croissant,Bakery
 croissant,Bakery
@@ -8409,7 +8409,7 @@ chips,Snacks
 apple,Fruits & Vegetables
 cheese,Dairy & Eggs
 detergent,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 onion,Fruits & Vegetables
 cooking oil,Grains & Staples
 juice,Beverages
@@ -8453,7 +8453,7 @@ onion,Fruits & Vegetables
 belt,Clothing & Lifestyle
 spinach,Fruits & Vegetables
 cooking oil,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 banana,Fruits & Vegetables
 onion,Fruits & Vegetables
 yogurt,Dairy & Eggs
@@ -8543,7 +8543,7 @@ dishwashing liquid,Household
 dishwashing liquid,Household
 tomato,Fruits & Vegetables
 rice,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 rice,Grains & Staples
 potato,Fruits & Vegetables
 sugar,Grains & Staples
@@ -8563,7 +8563,7 @@ spices,Grains & Staples
 educational book,Stationery & Books
 fish,Meat & Seafood
 tea,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 salt,Grains & Staples
 toothpaste,Personal Care & Health
 earphones,Electronics
@@ -8635,7 +8635,7 @@ chicken breast,Meat & Seafood
 tea,Beverages
 wheat flour,Grains & Staples
 croissant,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 beef,Meat & Seafood
 coffee,Beverages
 cheese,Dairy & Eggs
@@ -8684,7 +8684,7 @@ toilet paper,Household
 sugar,Grains & Staples
 earphones,Electronics
 chips,Snacks
-diapers,Personal Care & Health
+diapers,Baby Care
 cake,Bakery
 chicken breast,Meat & Seafood
 educational book,Stationery & Books
@@ -8703,7 +8703,7 @@ tissue,Household
 jeans,Clothing & Lifestyle
 earphones,Electronics
 dress,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 sugar,Grains & Staples
 banana,Fruits & Vegetables
 notebook,Stationery & Books
@@ -8742,7 +8742,7 @@ wheat flour,Grains & Staples
 bread,Bakery
 pain reliever,Personal Care & Health
 charger,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 cooking oil,Grains & Staples
 jeans,Clothing & Lifestyle
 charger,Electronics
@@ -8770,7 +8770,7 @@ belt,Clothing & Lifestyle
 toilet paper,Household
 cake,Bakery
 saree,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 beef,Meat & Seafood
 spinach,Fruits & Vegetables
 shirt,Clothing & Lifestyle
@@ -8785,7 +8785,7 @@ mixer grinder,Electronics
 chips,Snacks
 chocolate,Snacks
 face wash,Personal Care & Health
-baby food,Personal Care & Health
+baby food,Baby Care
 biscuits,Snacks
 biscuits,Snacks
 onion,Fruits & Vegetables
@@ -8801,7 +8801,7 @@ spinach,Fruits & Vegetables
 butter,Dairy & Eggs
 dishwashing liquid,Household
 mixer grinder,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 carrot,Fruits & Vegetables
 earphones,Electronics
 orange,Fruits & Vegetables
@@ -8825,7 +8825,7 @@ vitamins,Personal Care & Health
 cake,Bakery
 face wash,Personal Care & Health
 mixer grinder,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 dishwashing liquid,Household
 marker,Stationery & Books
 wheat flour,Grains & Staples
@@ -8871,14 +8871,14 @@ yogurt,Dairy & Eggs
 charger,Electronics
 toilet paper,Household
 fiction book,Stationery & Books
-diapers,Personal Care & Health
+diapers,Baby Care
 toothpaste,Personal Care & Health
 yogurt,Dairy & Eggs
-diapers,Personal Care & Health
-baby food,Personal Care & Health
+diapers,Baby Care
+baby food,Baby Care
 butter,Dairy & Eggs
 fish,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 shoes,Clothing & Lifestyle
 tea,Beverages
 belt,Clothing & Lifestyle
@@ -8888,7 +8888,7 @@ cookies,Bakery
 carrot,Fruits & Vegetables
 dress,Clothing & Lifestyle
 butter,Dairy & Eggs
-diapers,Personal Care & Health
+diapers,Baby Care
 potato,Fruits & Vegetables
 cookies,Bakery
 cooking oil,Grains & Staples
@@ -8905,7 +8905,7 @@ soap,Personal Care & Health
 croissant,Bakery
 onion,Fruits & Vegetables
 tissue,Household
-baby food,Personal Care & Health
+baby food,Baby Care
 juice,Beverages
 shirt,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
@@ -8920,7 +8920,7 @@ fish,Meat & Seafood
 phone cover,Electronics
 saree,Clothing & Lifestyle
 onion,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 spices,Grains & Staples
 floor cleaner,Household
 bread,Bakery
@@ -8929,7 +8929,7 @@ soda,Beverages
 shoes,Clothing & Lifestyle
 shoes,Clothing & Lifestyle
 bread,Bakery
-diapers,Personal Care & Health
+diapers,Baby Care
 vitamins,Personal Care & Health
 banana,Fruits & Vegetables
 shampoo,Personal Care & Health
@@ -8938,7 +8938,7 @@ biscuits,Snacks
 tissue,Household
 banana,Fruits & Vegetables
 charger,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 cooking oil,Grains & Staples
 orange,Fruits & Vegetables
 spices,Grains & Staples
@@ -9015,7 +9015,7 @@ marker,Stationery & Books
 floor cleaner,Household
 marker,Stationery & Books
 pasta,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 soap,Personal Care & Health
 dishwashing liquid,Household
 shoes,Clothing & Lifestyle
@@ -9036,14 +9036,14 @@ lentils,Grains & Staples
 saree,Clothing & Lifestyle
 marker,Stationery & Books
 tomato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 floor cleaner,Household
 butter,Dairy & Eggs
 prawns,Meat & Seafood
 floor cleaner,Household
 mixer grinder,Electronics
 prawns,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 belt,Clothing & Lifestyle
 tea,Beverages
 floor cleaner,Household
@@ -9058,7 +9058,7 @@ lentils,Grains & Staples
 chicken breast,Meat & Seafood
 rice,Grains & Staples
 beef,Meat & Seafood
-diapers,Personal Care & Health
+diapers,Baby Care
 electric kettle,Electronics
 dishwashing liquid,Household
 notebook,Stationery & Books
@@ -9125,7 +9125,7 @@ educational book,Stationery & Books
 pastry,Bakery
 wheat flour,Grains & Staples
 tea,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 pain reliever,Personal Care & Health
 cake,Bakery
 rice,Grains & Staples
@@ -9250,13 +9250,13 @@ marker,Stationery & Books
 tea,Beverages
 toilet paper,Household
 potato,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 earphones,Electronics
 cooking oil,Grains & Staples
 shirt,Clothing & Lifestyle
 tissue,Household
 mixer grinder,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 juice,Beverages
 pastry,Bakery
 vitamins,Personal Care & Health
@@ -9270,7 +9270,7 @@ notebook,Stationery & Books
 shirt,Clothing & Lifestyle
 energy drink,Beverages
 soap,Personal Care & Health
-diapers,Personal Care & Health
+diapers,Baby Care
 notebook,Stationery & Books
 jeans,Clothing & Lifestyle
 spices,Grains & Staples
@@ -9285,11 +9285,11 @@ jeans,Clothing & Lifestyle
 apple,Fruits & Vegetables
 prawns,Meat & Seafood
 beef,Meat & Seafood
-baby food,Personal Care & Health
+baby food,Baby Care
 spinach,Fruits & Vegetables
 marker,Stationery & Books
 sugar,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 milk,Dairy & Eggs
 onion,Fruits & Vegetables
 salt,Grains & Staples
@@ -9363,7 +9363,7 @@ shirt,Clothing & Lifestyle
 soda,Beverages
 cake,Bakery
 phone cover,Electronics
-diapers,Personal Care & Health
+diapers,Baby Care
 cheese,Dairy & Eggs
 soap,Personal Care & Health
 toothpaste,Personal Care & Health
@@ -9378,9 +9378,9 @@ eggs,Dairy & Eggs
 belt,Clothing & Lifestyle
 shirt,Clothing & Lifestyle
 belt,Clothing & Lifestyle
-diapers,Personal Care & Health
+diapers,Baby Care
 charger,Electronics
-baby food,Personal Care & Health
+baby food,Baby Care
 vitamins,Personal Care & Health
 saree,Clothing & Lifestyle
 bread,Bakery
@@ -9394,9 +9394,9 @@ carrot,Fruits & Vegetables
 face wash,Personal Care & Health
 cooking oil,Grains & Staples
 fiction book,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 carrot,Fruits & Vegetables
-baby food,Personal Care & Health
+baby food,Baby Care
 cookies,Bakery
 dress,Clothing & Lifestyle
 tea,Beverages
@@ -9456,7 +9456,7 @@ fiction book,Stationery & Books
 orange,Fruits & Vegetables
 rice,Grains & Staples
 tea,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 notebook,Stationery & Books
 biscuits,Snacks
 croissant,Bakery
@@ -9544,7 +9544,7 @@ tomato,Fruits & Vegetables
 potato,Fruits & Vegetables
 toilet paper,Household
 juice,Beverages
-diapers,Personal Care & Health
+diapers,Baby Care
 chocolate,Snacks
 cookies,Bakery
 face wash,Personal Care & Health
@@ -9581,7 +9581,7 @@ shampoo,Personal Care & Health
 earphones,Electronics
 potato,Fruits & Vegetables
 eggs,Dairy & Eggs
-baby food,Personal Care & Health
+baby food,Baby Care
 saree,Clothing & Lifestyle
 eggs,Dairy & Eggs
 banana,Fruits & Vegetables
@@ -9611,7 +9611,7 @@ electric kettle,Electronics
 chocolate,Snacks
 milk,Dairy & Eggs
 soda,Beverages
-baby food,Personal Care & Health
+baby food,Baby Care
 face wash,Personal Care & Health
 butter,Dairy & Eggs
 bread,Bakery
@@ -9641,7 +9641,7 @@ spices,Grains & Staples
 face wash,Personal Care & Health
 face wash,Personal Care & Health
 tissue,Household
-diapers,Personal Care & Health
+diapers,Baby Care
 chocolate,Snacks
 juice,Beverages
 spices,Grains & Staples
@@ -9708,7 +9708,7 @@ apple,Fruits & Vegetables
 vitamins,Personal Care & Health
 chicken breast,Meat & Seafood
 dress,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 biscuits,Snacks
 cheese,Dairy & Eggs
 tea,Beverages
@@ -9753,7 +9753,7 @@ soda,Beverages
 jeans,Clothing & Lifestyle
 wheat flour,Grains & Staples
 pasta,Grains & Staples
-diapers,Personal Care & Health
+diapers,Baby Care
 pen,Stationery & Books
 tissue,Household
 potato,Fruits & Vegetables
@@ -9808,7 +9808,7 @@ cookies,Bakery
 shampoo,Personal Care & Health
 tea,Beverages
 salt,Grains & Staples
-baby food,Personal Care & Health
+baby food,Baby Care
 beef,Meat & Seafood
 sugar,Grains & Staples
 tissue,Household
@@ -9833,7 +9833,7 @@ tissue,Household
 energy drink,Beverages
 juice,Beverages
 cake,Bakery
-baby food,Personal Care & Health
+baby food,Baby Care
 jeans,Clothing & Lifestyle
 yogurt,Dairy & Eggs
 juice,Beverages
@@ -9859,7 +9859,7 @@ toilet paper,Household
 potato,Fruits & Vegetables
 sugar,Grains & Staples
 saree,Clothing & Lifestyle
-baby food,Personal Care & Health
+baby food,Baby Care
 cake,Bakery
 tomato,Fruits & Vegetables
 onion,Fruits & Vegetables
@@ -9968,7 +9968,7 @@ rice,Grains & Staples
 onion,Fruits & Vegetables
 floor cleaner,Household
 pen,Stationery & Books
-baby food,Personal Care & Health
+baby food,Baby Care
 sugar,Grains & Staples
 lentils,Grains & Staples
 toilet paper,Household
@@ -9978,7 +9978,7 @@ detergent,Household
 tissue,Household
 jeans,Clothing & Lifestyle
 carrot,Fruits & Vegetables
-diapers,Personal Care & Health
+diapers,Baby Care
 detergent,Household
 chocolate,Snacks
 yogurt,Dairy & Eggs
@@ -12215,419 +12215,3 @@ cough syrup,Personal Care & Health
 cough syrup,Personal Care & Health
 cough syrup,Personal Care & Health
 vitamins,Personal Care & Health
-"david’s cookies mile high peanut butter cake, 6.8 lbs",Bakery & Desserts
-"the cake bake shop 8"" round carrot cake",Bakery & Desserts
-"st michel madeleine, classic french sponge cake 100 - count",Bakery & Desserts
-"david's cookies butter pecan meltaways 32 oz, 2-pack",Bakery & Desserts
-"david’s cookies premier chocolate cake, 7.2 lbs",Bakery & Desserts
-david's cookies mango & strawberry cheesecake 2-count,Bakery & Desserts
-"la grande galette french butter cookies, 1.3 lb, 6-pack",Bakery & Desserts
-"david's cookies no sugar added cheesecake & marble truffle cake, 2-pack",Bakery & Desserts
-david's cookies brownie and cookie combo pack,Bakery & Desserts
-"the cake bake shop 8"" round chocolate cake",Bakery & Desserts
-"david's cookies 10"" rainbow cake",Bakery & Desserts
-the cake bake shop 2 tier special occasion cake,Bakery & Desserts
-david's cookies 90-piece gourmet chocolate chunk frozen cookie dough,Bakery & Desserts
-"david's cookies chocolate fudge birthday cake, 3.75 lbs.  includes party pack",Bakery & Desserts
-ferrara’s bakery new york cheesecake 2-pack,Bakery & Desserts
-"david’s cookies variety cheesecakes, 2-pack",Bakery & Desserts
-classic cake tiramisu quarter sheet cake,Bakery & Desserts
-mary macleod's gluten free shortbread cookies mixed assortment 8-pack ,Bakery & Desserts
-"the cake bake shop 8"" round pixie fetti cake",Bakery & Desserts
-classic cake chocolate entremet quarter sheet cake,Bakery & Desserts
-"ferrara’s bakery 8 in. tiramisu cake, 2-pack",Bakery & Desserts
-classic cake limoncello quarter sheet cake,Bakery & Desserts
-demilan panettone classico tin cake 2.2 lb tin,Bakery & Desserts
-david’s cookies decadent triple chocolate made with mini hershey’s kisses and reese’s peanut butter cup cookies tin – 2 count,Bakery & Desserts
-ferrara's bakery 4 lbs. italian cookie pack,Bakery & Desserts
-"ferrara's bakery 48 mini cannoli's - 1.5"" to 2"" in length",Bakery & Desserts
-ferrara's bakery 24 large cannoli's,Bakery & Desserts
-"mary macleod’s shortbread, variety tin, 3-pack, 24 cookies per tin",Bakery & Desserts
-ferrara's bakery rainbow cookies 1.5 lb,Bakery & Desserts
-ferrara's bakery 2 lb italian cookie tray and struffoli,Bakery & Desserts
-"tootie pie 11"" heavenly chocolate pie, 2- pack ",Bakery & Desserts
-"tootie pie 11"" whiskey pecan pie, 2-pack",Bakery & Desserts
-"tootie pie 11"" huge original apple pie",Bakery & Desserts
-"pulp & press organic cold-pressed wellness shot pack, 48-pack",Beverages
-"kirkland signature bottled water 16.9 fl oz, 40-count, 48 case pallet",Beverages
-pulp and press 3-day organic cold pressed juice cleanse,Beverages
-"olipop 12 oz prebiotics soda variety pack, 24 count",Beverages
-"joyburst energy variety, 12 fl oz, 18-count",Beverages
-"starbucks classic hot cocoa mix 30 oz, 2-pack",Beverages
-"vitacup green tea instant packets with matcha, enhance energy & detox, 2-pack",Beverages
-"sencha naturals everyday matcha green tea powder, 3-pack",Beverages
-vonbee honey citron & ginger tea 4.4 lb 2-pack,Beverages
-"100% spring water, 2.5 gallon, 2-count, 48 case pallet",Beverages
-"pressed cold-pressed juice & shot bundle -18 bottles, 9 juices & 9 shots",Beverages
-pressed 3-day cleanse bundle,Beverages
-"pressed 5-day cleanse bundle - 40 bottles, 30 juices, and 10 shots",Beverages
-pulp and press 5-day organic cold pressed juice cleanse,Beverages
-"pulp & press organic cold-pressed juice variety pack, 18-pack",Beverages
-tiesta tea loose leaf tea variety 3-pack,Beverages
-"pressed cold-pressed greens, roots & citrus bundle 15-count",Beverages
-"joyburst hydration drink, variety pack, 12 fl oz, 24-count ",Beverages
-"pressed 3-day beginner cleanse bundle  - 24 bottles, 18 juice and  6 shots",Beverages
-"ready sports drink light, mango lemonade, 16.9 fl oz, 12-count",Beverages
-"cherry bay orchards tart cherry concentrate 32 fl. oz., 2-pack",Beverages
-pressed 36-count wellness shots ,Beverages
-"joyburst energy drink, frose rose, 12 fl oz, 12-count",Beverages
-"utah truffles dark chocolate truffles with sea salt 16 oz, 2-pack",Snacks
-"utah truffle milk chocolate mint truffles 16 oz, 2-pack",Snacks
-"chocolate moonshine co. belgian artisan chocolate caramel biscuit bark, 20 oz.",Snacks
-"bouchard belgian napolitains premium dark chocolate 32 oz,  2-pack",Snacks
-"ghirardelli chocolate squares premium chocolate assortment, 23.8 oz",Snacks
-godiva masterpieces assortment of legendary milk chocolate 14.9 oz 4-pack,Snacks
-"kiss my keto gummy candy fish friends, 6-count, 2-pack",Snacks
-"chocolate moonshine co. belgian artisan black cherry bourbon bark, 20 oz.",Snacks
-"kiss my keto gummies tropical rings, 6-count, 2-pack",Snacks
-godiva assorted chocolate gold collection gift box 36-pieces,Snacks
-"sanders dark chocolate sea salt caramels 36 oz., 2-pack",Snacks
-"sanders milk chocolate sea salt caramels 36 oz., 2-pack",Snacks
-"truffettes de france cocoa truffles 16 oz, 4-pack",Snacks
-"a'cappella caramel ensemble, 3.25 oz, 8-count",Snacks
-sanders dark chocolate sea salt bourbon 2-pack,Snacks
-"mrs. calls kettle cooked sea salt soft caramels 25 oz, 2-pack",Snacks
-"chocolate moonshine fudge, 6 count variety party pack, 3 lbs total",Snacks
-"popcornopolis pumpkin spice cone, 4.5 oz, 12 pack",Snacks
-"a'cappella knotty grahams ensemble, 4.5 oz, 8-count",Snacks
-"a'cappella bark ensemble, 3.4 oz, 8-count",Snacks
-godiva dark chocolate ganache hearts 14.8 oz 4-pack,Snacks
-ghirardelli chocolate assortment valentine's duet hearts. 15.2 oz. ,Snacks
-"nellie’s laundry soda, 400 loads",Household
-nellie’s laundry starter pack,Household
-"nellie’s baby laundry soda, 500 loads",Household
-"nellie's laundry nuggets, 350 loads",Household
-"nellie's laundry soda, 800 loads",Household
-"ecos he laundry detergent sheets, free & clear, 100 loads, 100 sheets, 2-count",Household
-"ecos he liquid laundry detergent, magnolia & lily, 210 loads, 210 fl oz, 2-count",Household
-"boulder clean laundry detergent sheets, free & clear, 160 loads, 80 sheets",Household
-"simplehuman custom fit liners, 300-pack",Household
-"ecos he liquid laundry detergent, free & clear, 210 loads, 210 fl oz, 2-count",Household
-"the unscented company liquid laundry detergent refill box, 400 loads, 337.92 fl oz",Household
-"myecoworld 13-gallon compostable food waste bag, 72-count",Household
-"myecoworld 3-gallon compostable food waste bag, 150-count",Household
-"the unscented company he liquid laundry detergent bottle & refill box, 478 loads, 403.82 fl oz",Household
-nellie's dish butter bundle,Household
-"clorox clean-up all purpose cleaner with bleach, original, 32 oz & 180 oz refill",Household
-"boulder clean liquid laundry detergent, citrus breeze, 200 loads, 200 fl oz",Household
-"the unscented company liquid dish soap refill box, 337.92 fl oz",Household
-"the unscented company laundry tabs, 300 loads",Household
-"scotch-brite lint roller, 95-count, 5-pack",Household
-nellie's wow mop starter kit,Household
-"the unscented company liquid dish soap bottle & refill box, 363.22 fl oz",Household
-"nellie's dishwasher nuggets, 150-count",Household
-"boulder clean disinfectant cleaner, fresh lemon, 128 fl oz",Household
-"bona hardwood floor cleaner, original, 32 fl oz & 128 fl oz ready-to-use refill",Household
-"febreze air refresher, variety pack, 8.8 oz, 4-count",Household
-twist & shout spin mop & bucket system with 1 refill,Household
-"puracy surface cleaner, 25 fl oz, 3-count",Household
-"lysol disinfectant spray, crisp linen, 19 oz, 3-count",Household
-"dr. jacobs naturals pure castile soap, variety pack, 32 oz, 3-count",Household
-"poo-pourri toilet spray, variety pack, 3.4 fl oz, 3-count",Household
-"dr. jacobs naturals pure castile soap, variety pack, 32 oz, 3-count",Household
-"nellie’s bulk oxygen brightener, 8.75 lbs",Household
-"nellie's floor care, 25 fl oz, 3-count",Household
-"nellie's lamby dryerballs, 4-count, 2-pack",Household
-clorox toiletwand disposable toilet cleaning system with 36 refills,Household
-"the unscented company dryer balls, 6-count",Household
-"the unscented company dishwasher tabs, 500-count",Household
-"the unscented company dishwasher tabs, 30-count, 4-pack",Household
-"nellie’s laundry soda, 400 loads",Household
-nellie’s laundry starter pack,Household
-"nellie’s baby laundry soda, 500 loads",Household
-"nellie's laundry nuggets, 350 loads",Household
-"nellie's laundry soda, 800 loads",Household
-"ecos he laundry detergent sheets, free & clear, 100 loads, 100 sheets, 2-count",Household
-"ecos he liquid laundry detergent, magnolia & lily, 210 loads, 210 fl oz, 2-count",Household
-"boulder clean laundry detergent sheets, free & clear, 160 loads, 80 sheets",Household
-"ecos he liquid laundry detergent, free & clear, 210 loads, 210 fl oz, 2-count",Household
-"the unscented company liquid laundry detergent refill box, 400 loads, 337.92 fl oz",Household
-"the unscented company he liquid laundry detergent bottle & refill box, 478 loads, 403.82 fl oz",Household
-"boulder clean liquid laundry detergent, citrus breeze, 200 loads, 200 fl oz",Household
-"the unscented company laundry tabs, 300 loads",Household
-"scotch-brite lint roller, 95-count, 5-pack",Household
-"nellie’s bulk oxygen brightener, 8.75 lbs",Household
-"nellie's lamby dryerballs, 4-count, 2-pack",Household
-"the unscented company dryer balls, 6-count",Household
-"ahi tuna individual vacuum packed portion, 26-27 total packs, 10 lbs. total case",Meat & Seafood
-"chicago steak usda prime beef wet aged boneless strips & gourmet burgers, 16 total count, 10 lbs. total",Meat & Seafood
-"alaska home pack frozen sea cucumber - 3 packs, 7 lbs. total",Meat & Seafood
-kansas city steak company usda choice ribeye steaks 18 oz. each,Meat & Seafood
-kansas city steak company usda choice ny strip steaks 16 oz. each,Meat & Seafood
-"northfork ground bison -, 10 total packs, 10 lbs. total",Meat & Seafood
-"lobster with shell removed,, 6 total packs, 3.44 lbs. total",Meat & Seafood
-"crescent foods halal hand-cut beef, chicken combo pack - 14 total packs, 13.5 lbs. total",Meat & Seafood
-"farmer focus organic boneless/skinless chicken breasts,, 20 total count, 10 lbs. total",Meat & Seafood
-"d’artagnan green circle chicken - boneless & skinless breasts, 12 total packs, 11 lbs. total",Meat & Seafood
-"northwest fish 4-6 whole dungeness crab, 10 lbs",Meat & Seafood
-"quality ethnic foods halal chicken variety pack, 12 total packs, 12 lbs. total",Meat & Seafood
-"premium seafood variety pack - 20 total packs, total 12.5 lbs.",Meat & Seafood
-"northfork elk burger, 10 total packs, 30-count",Meat & Seafood
-"d'artagnan heritage breed, total 6 packs, 19.5 lbs. total",Meat & Seafood
-"chicago steak - steak & cake - filet mignon, crab cakes, and steak burgers, total 13 packs, 6.5 lbs. total",Meat & Seafood
-"northwest fish colossal alaskan wild dungeness crab sections, 10lbs",Meat & Seafood
-"mila chicken xiao long bao soup dumplings - 50 dumplings per bag, 3 bags total",Meat & Seafood
-"kansas city steak company usda choice combo pack, 12 total packs, 11.5 lbs. total",Meat & Seafood
-"d'artagnan extreme american wagyu burger lovers bundle 12 total packs, 6 lbs. total",Meat & Seafood
-"texas tamale co. chicken tamales 6-pack of 12 each, 72-count",Meat & Seafood
-"northwest fish wild alaskan sockeye salmon cheddar bacon burger patties, 24-count, 9 lbs",Meat & Seafood
-"northfork bison burger, 10 total packs, 30-count",Meat & Seafood
-coastal seafood frozen lobster tails 12 count,Meat & Seafood
-"d'artagnan 13-piece gourmet roasting ham & luxury charcuterie gift box, 12.5 lbs",Meat & Seafood
-"northwest fish alaskan bairdi snow crab sections,, total 10 lbs.",Meat & Seafood
-"authentic wagyu surf & turf pack, cold water lobster tails with japanese a5 wagyu petite striploin steaks",Meat & Seafood
-"rastelli bone-in premium pork rib steak,, 16 total count, 8 lbs. total ",Meat & Seafood
-"mila pork xiao long bao soup dumplings - 50 dumplings per bag, 3 bags total",Meat & Seafood
-"rastelli usda choice boneless black angus prime rib roast, 1 total pack, 7 lbs. total",Meat & Seafood
-"silver fern farms 100% new zealand grass-fed, net carbon zero steak box - 10 total packs, 6.25 lbs. total",Meat & Seafood
-"authentic wagyu surf & turf pack, japanese a5 wagyu ribeye steaks",Meat & Seafood
-"d’artagnan gourmet steak & burger grill pack, 20 total packs, 16 lbs. total",Meat & Seafood
-"rastelli market fresh jumbo lump crab cakes, 20 total count, 5 lbs. total",Meat & Seafood
-"rastelli petite filet mignon & jumbo lump crab cake surf & turf, 24 total packs, 6.75 total lbs.",Meat & Seafood
-"chicago steak premium angus beef surf & turf, 15 total packs, 7 lbs. total",Meat & Seafood
-"chicago steak premium angus beef burger flight, total 29 packs, 14 lbs. total",Meat & Seafood
-"wild alaska snow crab meat 12 total packs, 6 lbs. total ",Meat & Seafood
-"authentic wagyu kurobuta applewood smoked thick cut bacon, 1 pack, 3 lbs. total",Meat & Seafood
-"northwest red king salmon portions, 12 total count, 1 case totaling 6 lbs.",Meat & Seafood
-"d’artagnan antibiotic free bone-in beef ribeye roast, 1 total pack, 19 lbs. total",Meat & Seafood
-"rastelli's pork ribeye steaks -, 20 total packs, 7.5 lbs. total",Meat & Seafood
-"chicago steak usda prime surf & turf, total 14 packs, 7 lbs. total",Meat & Seafood
-"ahi tuna mixed pack,, 25 total packs, 10.15 lbs. total",Meat & Seafood
-"mila starter pack xiao long bao soup dumplings - 3 bags, 1 bamboo steamer, 4 dipping bowls",Meat & Seafood
-"northwest fish wild alaskan sockeye salmon fillets, 10 lbs",Meat & Seafood
-"smoked new zealand king salmon, 1.1lb fillets, 2-count, 2.2 lbs total",Meat & Seafood
-"crescent foods halal hand cut steak locker, 16 total packs, 9 lbs. total",Meat & Seafood
-"rastelli vbites plant-based vegan meat substitute mega burger 6 oz each, 24-pack, 9 lbs",Meat & Seafood
-"chicago steak filet mignon & scallop combo, 14 total packs, 7 lbs. total",Meat & Seafood
-" northwest fish wild alaskan sockeye salmon fillets total 25 count, 1 case totaling 10 lbs.",Meat & Seafood
-"a5 wagyu surf & turf pack, cold water lobster tails & japanese a5 wagyu filet mignon, total 4 packs",Meat & Seafood
-"wild alaska halibut bits & pieces, 8 total packs, 8 lbs. total",Meat & Seafood
-"authentic wagyu japanese a5 wagyu sampler pack, 3 total steaks, 2.1 lbs. total",Meat & Seafood
-"japanese a5 wagyu ribeye steaks,, 3 total packs, 3 lbs. total",Meat & Seafood
-"chicago steak premium angus beef butcher assortment , 17 total packs, 8 lbs. total",Meat & Seafood
-"japanese wagyu center cut new york strip steaks, a5 grade,, 4 total count, 3 lbs. total",Meat & Seafood
-"seabear wild sockeye & king  smoked salmon fillet duo, total 2lbs.",Meat & Seafood
-"authentic wagyu japanese a5 bacon wrapped cubes,, total 3 packs, 2.7 lbs. total",Meat & Seafood
-"rastelli market fresh angus beef prime petite filet mignons & wild caught maine lobster tails, 8 total packs, 3 lbs. total",Meat & Seafood
-"trident seafoods smoked sockeye salmon, 2 gift packs",Meat & Seafood
-"seabear smoked salmon gift boxes, 6 oz, 6-pack",Meat & Seafood
-"mila variety pack - xiao long bao soup dumplings - 50 dumplings per bag, 3 bags total",Meat & Seafood
-"great southern grass fed beef, abf ny strip cc steak,, 14 total packs, 10.5 lbs. total",Meat & Seafood
-"pederson natural farms no sugar italian ground sausage 1 lb, 10-pack",Meat & Seafood
-"grizzly salmon tartare with citrus marinade,, 14 total packs, total 3.5 lbs.",Meat & Seafood
-"rastelli’s abf burger variety pack, 42 total burgers , 15 lbs. total",Meat & Seafood
-"rastelli antibiotic-free wagyu beef craft burgers, 24 total count, 8.25 lbs. total",Meat & Seafood
-"norwegian froya salmon loin,, 4 total loins, total 1.6 lbs.",Meat & Seafood
-"rastelli usda choice black angus beef cowboy steaks,, 8 total count, 9 lbs. total",Meat & Seafood
-"texas tamale co. pork tamales 6pk of 12 each, 72-count",Meat & Seafood
-"sampler: dry-cured acorn-fed 100% iberico pork ham and salami and chorizo, 4.5 oz, 3-pack",Meat & Seafood
-"japanese a5 wagyu chuck eye steaks,, 6 total packs, 3 lbs. total",Meat & Seafood
-"sesame crusted ahi tuna steaks, 18 total packs, 1 case totaling 12 lbs.",Meat & Seafood
-"authentic wagyu japanese a5 wagyu top sirloin medallions,, 8 total packs, 4 lbs. total",Meat & Seafood
-"fully cooked confit duck legs -, 16 legs, 8 total packs, 8 lbs. total",Meat & Seafood
-"holy grail steak company - kobe a5 grade japanese wagyu strip steaks 14 oz, 2-count, 1.75 lbs. total",Meat & Seafood
-"all natural raw duck legs -, 16 total legs, 8 total packs, 8.5 lbs. total",Meat & Seafood
-"aysen coho sashimi quality salmon portions,, 26 to 27 total packs, 10 lbs. total",Meat & Seafood
-"quality ethnic foods half goat meat locker - 10 total packs, 15 lbs. total",Meat & Seafood
-"japanese wagyu new york strip loin roast, a5 grade, 11 lbs",Meat & Seafood
-"japanese wagyu boneless ribeye roast, a5 grade, 12 lbs",Meat & Seafood
-"rastelli’s antibiotic-free turkey craft burgers, 32 total packs, 10 lbs. total",Meat & Seafood
-"aysen coho salmon filets,, 4 total packs, 8 lbs. total",Meat & Seafood
-"key west pink 16/20 gulf shrimp headless shell-on, total 3 packs, 6 lbs. total",Meat & Seafood
-"authentic wagyu japanese a5 chuck roll bulgogi style slices, 6 total packs, 3 lbs. total",Meat & Seafood
-"japanese wagyu tenderloin roast, a5 grade, 6 lbs",Meat & Seafood
-"northfork bison combo pack -, 6 total packs, 4 lbs. total",Meat & Seafood
-"japanese wagyu, texas clod heart roast a5 grade, 7 lbs",Meat & Seafood
-"great southern grass fed beef, all natural, antibiotic free, top sirloin steak, 20 total packs, 10 lbs. total",Meat & Seafood
-"great southern grass fed beef, all natural, antibiotic free, ribeye steaks,, 14 total packs, 10.5 lbs. total",Meat & Seafood
-"d'artagnan american wagyu beef filet mignon, 8 total count, 3 lbs. total",Meat & Seafood
-"whole cooked cold water lobsters,, 1 case totaling 12 lbs.",Meat & Seafood
-"authentic wagyu japanese a5 peeled flat iron, 3.8 lbs",Meat & Seafood
-"texas tamale co. beef tamales 6pk of 12 each, 72-count",Meat & Seafood
-"pederson natural farms antibiotic free uncured no sugar bacon, 10 oz, 16-pack",Meat & Seafood
-"great southern all natural, antibiotic free, grass fed beef, filet mignon steak  8 oz, 20-pack, 10 lbs",Meat & Seafood
-"northfork bison trio of ground meats, total 9 packs, 9 lbs. total",Meat & Seafood
-"coastal seafood yellowfin tuna cubed poke,, 6 total bags, 6 lbs.total",Meat & Seafood
-"authentic wagyu japanese a5 marinated brisket gyudon,, 2 total packs, 4 lbs. total",Meat & Seafood
-"northwest fish wild alaskan cod loins total 25 count, 1 case totaling 10 lbs.",Meat & Seafood
-"alaska black cod - individual packed portions, 1 case totaling 10 lbs.",Meat & Seafood
-"lobster claws & arms, sustainable wild caught, north atlantic, 24-40 claws & arms, total 8lb. case",Meat & Seafood
-"swift all natural lamb loin chops, 10 total packs, 10 lbs. total",Meat & Seafood
-"coastal seafood live maine lobsters, 6 total packs, 7.5 lbs. total",Meat & Seafood
-"rastelli usda choice black angus sirloin coulotte steak, 20 total count, 7.5 lbs. total",Meat & Seafood
-"tsar nicoulai caviar sturgeon pate 6 oz, 6-pack",Meat & Seafood
-"crescent foods halal hand-cut lamb locker pack - 9 total packs,  9 lbs. total",Meat & Seafood
-"authentic wagyu boneless ribeye roast a5 grade, 2 x 3 lbs, 6 lbs total",Meat & Seafood
-"cristobal salted cod fillets 2 lbs, 3-pack",Meat & Seafood
-"rastelli grass fed frenched lamb racks, 24 oz, 6-pack, 9 lbs",Meat & Seafood
-"halal certified lamb box - 5 total packs, 9.3 lbs. total",Meat & Seafood
-"rastelli usda choice black angus ny cc strip steak, 12 total count, 7.5 lbs. total",Meat & Seafood
-"rastelli choice black angus tomahawk steaks,, 4 total count, 9.5 lbs. total",Meat & Seafood
-"quality ethnic foods halal goat cubes,, total 5 packs, total 11 lbs.",Meat & Seafood
-kansas city steak company usda choice filet mignon steaks 12 oz. each,Meat & Seafood
-"a5 wagyu striploin shabu shabu slices, total 4 packs, total 2 lbs.",Meat & Seafood
-"all natural boneless duck breast -, 16 total breasts, 8 total packs, 7lbs. total",Meat & Seafood
-"crescent foods halal hand cut poultry locker - 9 total packs, 12 lbs. total",Meat & Seafood
-"northwest fish sablefish loins, skin on, 7 oz, 23-count, 10 lbs",Meat & Seafood
-"northwest fish halibut fillets, skin-on 7-9 oz, 18-count, 10 lbs",Meat & Seafood
-"authentic wagyu japanese a5 wagyu striploin roast, 2-count, minimum 6 lbs total",Meat & Seafood
-"northwest fish u-12 sea scallops, 6 lbs",Meat & Seafood
-"american red snapper - whole, head-on, cleaned, - total 10lbs.",Meat & Seafood
-"d'artagnan american wagyu beef strip steaks, 5 total packs, 3.75 lbs. total",Meat & Seafood
-"rastelli usda choice black angus filet mignon, 16 total count, 5 lbs. total",Meat & Seafood
-"quality halal cut beef oxtail, 5 total packs, 11 lbs. total",Meat & Seafood
-"northfork bison sirloin steak,, 10 total count, 5 lbs. total",Meat & Seafood
-"quality ethnic foods halal beef variety, 9 total packs, 9 lbs. total",Meat & Seafood
-"whole head on, cleaned branzino fish, min 7 count, 10 lbs. total",Meat & Seafood
-"d’artagnan abf butcher box collection, total 7.5lbs",Meat & Seafood
-"d’artagnan ultimate steak lovers gift box, 6 total packs, 4.25 lbs. total",Meat & Seafood
-"portoro australian primal beef striploin - 1 total pack, min weight 6 lbs.",Meat & Seafood
-"northfork bison medallion, 8 total packs, 2.5 lbs. total",Meat & Seafood
-"authentic wagyu japanese a5 ground beef, 4 total packs, 4 lbs.total",Meat & Seafood
-"portoro australian primal beef ribeye - 1 pack total, minimum 5.7 lbs.",Meat & Seafood
-"northfork bison tenderloin, total 1 pack, 2 lbs. total",Meat & Seafood
-"d'artagnan whole abf pekin duck,, 6 total packs, 31.5 lbs. total ",Meat & Seafood
-"el rey del pulpo, large cooked octopus tentacles, 14 oz, 6-pack, 5.25 lbs",Meat & Seafood
-"mahi mahi boneless,, 26-27 total packs, 1 case totaling 10 lbs.",Meat & Seafood
-"tsar nicoulai estate smoked sturgeon 6 oz, 6-count, 2.25 lbs",Meat & Seafood
-"japanese wagyu filet mignons steaks, a5 grade,, 8 total packs, 3 lbs. total",Meat & Seafood
-european black winter fresh truffles 3 oz.,Grains & Staples
-manuka health umf 20+ raw manuka honey 8.8 oz,Grains & Staples
-namaste usda organic gluten free perfect sweet brown rice flour blend 48 oz  6-count,Grains & Staples
-full thread greek saffron 14 gram jar,Grains & Staples
-"namaste gluten free perfect flour blend, 6-pack",Grains & Staples
-tre olive oil calabrian gift box,Grains & Staples
-tre olive 2 liter extra virgin olive oil,Grains & Staples
-"napa valley naturals usda organic extra virgin olive oil 25.4 oz, 6-count",Grains & Staples
-"origin 846 unfiltered organic extra virgin olive oil 28.6 oz, 3-pack",Grains & Staples
-tre olive harvest variety gift box extra virgin olive oil 3-pack,Grains & Staples
-manuka health umf 10+ raw manuka honey 17.6 oz,Grains & Staples
-"terra delyssa first cold press extra virgin olive oil 3l, tin, 2-count",Grains & Staples
-"chosen foods avocado oil spray, 13.5 oz, 2-count",Grains & Staples
-comvita umf 25+ special reserve manuka honey 8.8 oz,Grains & Staples
-eat.art salt and spice set 2-pack,Grains & Staples
-comvita certified umf 5+ raw manuka honey,Grains & Staples
-namaste gluten free waffle & pancake mix 3 lb 2-pack,Grains & Staples
-korean honeyed black ginseng 20 sticks,Grains & Staples
-comvita certified umf 18+ raw manuka honey,Grains & Staples
-kinders organic garlic and  herb with sea salt and lemon 2-pack,Grains & Staples
-jamie's hive to table 3.5 lbs. full frame honeycomb ,Grains & Staples
-omeals self heating emergency/portable meals 32 pack high protein assortment,Grains & Staples
-"golden nest premium bird nest soup, original, 75 ml bottles, 8-count, 2-pack",Grains & Staples
-"kirkland signature organic hemp hearts, 3-pack",Grains & Staples
-"global gourmet 12-piece hot sauce collection, 2-pack",Grains & Staples
-"jamie's hive to table 100% pure raw 12 oz. honeycomb, 3-pack",Grains & Staples
-"nielsen-massey madagascar bourbon pure vanilla bean paste, 8 oz. ",Grains & Staples
-"kirkland signature ground turmeric, 12 oz., 2-count",Grains & Staples
-"kirkland signature organic ground saigon cinnamon, 10.7 oz., 2-count",Grains & Staples
-"trufflin 8.5 oz truffle sriracha hot sauce, 3-pack",Grains & Staples
-fresh winter white  truffles 2 oz,Grains & Staples
-"nielsen-massey madagascar bourbon pure vanilla extract, 8 oz., 2-pack ",Grains & Staples
-"pure vanilla extract, 16 fl oz",Grains & Staples
-"dj&a shiitake mushroom crisps 10.58 oz. bag, 5-pack",Grains & Staples
-trufflehunter white truffle oil 2-pack,Grains & Staples
-yupik organic hulled hemp hearts 2.2 lb 3-pack,Grains & Staples
-minced black truffle and sliced black truffle twin pack ,Grains & Staples
-"nielsen massey mexican pure vanilla extract, 2-pack",Grains & Staples
-"kinder's organic buttery steakhouse 10.4 oz, 2-pack",Grains & Staples
-trufflehunter selection 5-piece bundle ,Grains & Staples
-"acetum organic apple cider vinegar with the mother, 128 fl. oz.",Grains & Staples
-kirkland signature organic modena balsamic vinegar 2-pack,Grains & Staples
-"la civetta italian extra virgin olive oil 3l, tins, 2-pack",Grains & Staples
-the mazzetti artistry edition balsamic vinegar of modena 8.45 fl oz.,Grains & Staples
-mazzetti l'originale chef's reduction with balsamic vinegar of modena 2-count,Grains & Staples
-"crescent foods halal hand-cut beef, chicken combo pack - 14 total packs, 13.5 lbs. total",Meat & Seafood
-"farmer focus organic boneless/skinless chicken breasts,, 20 total count, 10 lbs. total",Meat & Seafood
-"d’artagnan green circle chicken - boneless & skinless breasts, 12 total packs, 11 lbs. total",Meat & Seafood
-"fully cooked confit duck legs -, 16 legs, 8 total packs, 8 lbs. total",Meat & Seafood
-"all natural raw duck legs -, 16 total legs, 8 total packs, 8.5 lbs. total",Meat & Seafood
-"rastelli’s antibiotic-free turkey craft burgers, 32 total packs, 10 lbs. total",Meat & Seafood
-"all natural boneless duck breast -, 16 total breasts, 8 total packs, 7lbs. total",Meat & Seafood
-"d'artagnan whole abf pekin duck,, 6 total packs, 31.5 lbs. total ",Meat & Seafood
-"ahi tuna individual vacuum packed portion, 26-27 total packs, 10 lbs. total case",Meat & Seafood
-"alaska home pack frozen sea cucumber - 3 packs, 7 lbs. total",Meat & Seafood
-"lobster with shell removed,, 6 total packs, 3.44 lbs. total",Meat & Seafood
-"northwest fish 4-6 whole dungeness crab, 10 lbs",Meat & Seafood
-"premium seafood variety pack - 20 total packs, total 12.5 lbs.",Meat & Seafood
-"chicago steak - steak & cake - filet mignon, crab cakes, and steak burgers, total 13 packs, 6.5 lbs. total",Meat & Seafood
-"northwest fish colossal alaskan wild dungeness crab sections, 10lbs",Meat & Seafood
-"northwest fish wild alaskan sockeye salmon cheddar bacon burger patties, 24-count, 9 lbs",Meat & Seafood
-coastal seafood frozen lobster tails 12 count,Meat & Seafood
-"rastelli market fresh jumbo lump crab cakes, 20 total count, 5 lbs. total",Meat & Seafood
-"rastelli petite filet mignon & jumbo lump crab cake surf & turf, 24 total packs, 6.75 total lbs.",Meat & Seafood
-"chicago steak premium angus beef surf & turf, 15 total packs, 7 lbs. total",Meat & Seafood
-"wild alaska snow crab meat 12 total packs, 6 lbs. total ",Meat & Seafood
-"northwest red king salmon portions, 12 total count, 1 case totaling 6 lbs.",Meat & Seafood
-"chicago steak usda prime surf & turf, total 14 packs, 7 lbs. total",Meat & Seafood
-"ahi tuna mixed pack,, 25 total packs, 10.15 lbs. total",Meat & Seafood
-"northwest fish wild alaskan sockeye salmon fillets, 10 lbs",Meat & Seafood
-"smoked new zealand king salmon, 1.1lb fillets, 2-count, 2.2 lbs total",Meat & Seafood
-"chicago steak filet mignon & scallop combo, 14 total packs, 7 lbs. total",Meat & Seafood
-" northwest fish wild alaskan sockeye salmon fillets total 25 count, 1 case totaling 10 lbs.",Meat & Seafood
-"a5 wagyu surf & turf pack, cold water lobster tails & japanese a5 wagyu filet mignon, total 4 packs",Meat & Seafood
-"wild alaska halibut bits & pieces, 8 total packs, 8 lbs. total",Meat & Seafood
-"seabear wild sockeye & king  smoked salmon fillet duo, total 2lbs.",Meat & Seafood
-"rastelli market fresh angus beef prime petite filet mignons & wild caught maine lobster tails, 8 total packs, 3 lbs. total",Meat & Seafood
-"trident seafoods smoked sockeye salmon, 2 gift packs",Meat & Seafood
-"seabear smoked salmon gift boxes, 6 oz, 6-pack",Meat & Seafood
-"grizzly salmon tartare with citrus marinade,, 14 total packs, total 3.5 lbs.",Meat & Seafood
-"sesame crusted ahi tuna steaks, 18 total packs, 1 case totaling 12 lbs.",Meat & Seafood
-"aysen coho sashimi quality salmon portions,, 26 to 27 total packs, 10 lbs. total",Meat & Seafood
-"aysen coho salmon filets,, 4 total packs, 8 lbs. total",Meat & Seafood
-"key west pink 16/20 gulf shrimp headless shell-on, total 3 packs, 6 lbs. total",Meat & Seafood
-"whole cooked cold water lobsters,, 1 case totaling 12 lbs.",Meat & Seafood
-"northwest fish wild alaskan cod loins total 25 count, 1 case totaling 10 lbs.",Meat & Seafood
-"alaska black cod - individual packed portions, 1 case totaling 10 lbs.",Meat & Seafood
-"lobster claws & arms, sustainable wild caught, north atlantic, 24-40 claws & arms, total 8lb. case",Meat & Seafood
-"coastal seafood live maine lobsters, 6 total packs, 7.5 lbs. total",Meat & Seafood
-"tsar nicoulai caviar sturgeon pate 6 oz, 6-pack",Meat & Seafood
-"cristobal salted cod fillets 2 lbs, 3-pack",Meat & Seafood
-"northwest fish sablefish loins, skin on, 7 oz, 23-count, 10 lbs",Meat & Seafood
-"northwest fish halibut fillets, skin-on 7-9 oz, 18-count, 10 lbs",Meat & Seafood
-"northwest fish u-12 sea scallops, 6 lbs",Meat & Seafood
-"american red snapper - whole, head-on, cleaned, - total 10lbs.",Meat & Seafood
-"whole head on, cleaned branzino fish, min 7 count, 10 lbs. total",Meat & Seafood
-"el rey del pulpo, large cooked octopus tentacles, 14 oz, 6-pack, 5.25 lbs",Meat & Seafood
-"mahi mahi boneless,, 26-27 total packs, 1 case totaling 10 lbs.",Meat & Seafood
-"tsar nicoulai estate smoked sturgeon 6 oz, 6-count, 2.25 lbs",Meat & Seafood
-g2g 3-pack peanut butter chocolate chip protein bars 24-count,Snacks
-g2g 3-pack peanut butter coconut chocolate protein bars 24-count,Snacks
-"g2g 3-pack peanut butter & jelly protein bars, 24-count",Snacks
-"st michel madeleine, classic french sponge cake 100 - count",Snacks
-no sugar keto bar 2-pack chocolate peanut butter,Snacks
-"ready protein bar, chocolate peanut butter and sea salt, 24-count, 2 pack",Snacks
-shrimp chips with garlic and butter 16 oz 2-pack,Snacks
-"g2g 3-pack almond chocolate chip protein bars, 24-count",Snacks
-"savanna orchards honey roasted nut & pistachios 30 oz, 2-pack",Snacks
-g2g protein bar variety 3-pack,Snacks
-movie marathon gourmet popcorn gift set ,Snacks
-"sonoma creamery pepper jack crisps, 10 oz",Snacks
-mary macleod's gluten free shortbread cookies mixed assortment 8-pack ,Snacks
-"the gluten free brothers variety bites, 6 count",Snacks
-no sugar keto bar chocolate chip cookie dough 2-pack ,Snacks
-no sugar keto bar chocolate mint 2-pack ,Snacks
-"no sugar shellz dark chocolatey caramel pecan 25-count, 2-pack",Snacks
-made in nature usda organic dried mangos 28 oz  3-pack,Snacks
-"made in nature organic berry fusion 24 oz, 2-pack",Snacks
-no sugar keto bar 2-pack cookies & cream,Snacks
-"savanna honey roasted mix nuts, 30 oz, 2-pack",Snacks
-"popcornopolis ultimate classic assorted tall cones, variety, 24-count",Snacks
-no sugar keto bar 2-pack  chocolate fudge brownie,Snacks
-island princess macadamia popcorn crunch 24 oz 2-pack,Snacks
-made in nature usda organic goji berries 20 oz 2-pack,Snacks
-"made in nature organic calimyrna figs 40 oz, 3-pack",Snacks
-"made in nature usda organic dates 40 oz, 2-pack",Snacks
-"mayorga organic chia seeds, usda organic, non-gmo verified, 3lb, 2-pack",Snacks
-prevail variety grass fed beef jerky 10-pack,Snacks
-prevail original grass fed beef jerky 10-pack,Snacks
-"the gluten free brothers variety bars, 24 count",Snacks
-cherry bay orchards no-added-sugar dried montmorency cherries 8 oz bag 2-pack,Snacks
-"hoody's roasted unsalted peanuts 20 lbs, 4-pack",Snacks
-our heroes' care pack ,Snacks
-"around the world 15 oz spicy nuts, 2-pack tin, total 30 oz",Snacks
-"le chic patissier, original stroopwafels , 2.77 lb, 3-pack",Snacks
-"genius gourmet variety crispy protein treat, 30-count",Snacks
-savanna orchards country club mix 30 oz 2-count,Snacks
-"honey mama's classic variety truffle bars, 2.5 oz, 12-ct",Snacks
-"honey mama's greatest hits truffle bars, 2.5 oz, 12-ct",Snacks
-"honey mama's cocoa truffle bars, 2.5 oz, 12-ct",Snacks
